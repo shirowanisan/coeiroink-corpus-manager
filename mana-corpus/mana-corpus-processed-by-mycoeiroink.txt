@@ -504,9 +504,9 @@ QUESTION_022
 i i w a k e s u r u N d a
 
 QUESTION_023
-ウィンウィンの関係を築こうじゃないか？
-ウィンウィンノカンケーヲチッコージャナイカ？
-w i N w i N n o k a N k e e o ch i cl k o o j a n a i k a
+ウィンウィンの関係をきずこうじゃないか？
+ウィンウィンノカンケーヲキズコージャナイカ？
+w i N w i N n o k a N k e e o k i z u k o o j a n a i k a
 
 QUESTION_024
 もしかして、友達いないんじゃ？
