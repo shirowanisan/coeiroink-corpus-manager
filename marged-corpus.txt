@@ -148,7 +148,7 @@ QUESTION2_023:この子はきみの飼い犬？
 QUESTION2_024:ジャンプ撃ちは基本だよね？
 QUESTION2_025:それアンタが言うの？
 QUESTION2_026:さっきの声は母？
-QUESTION2_027:今日は何の日？
+QUESTION2_027:今日はなんの日？
 QUESTION2_028:あなたが最強のシェフ？
 QUESTION2_029:可愛い笑い方って、えへへ？
 QUESTION2_030:それがガラケー型スマホ？

@@ -744,9 +744,9 @@ QUESTION2_026
 s a cl k i n o k o e w a h a h a
 
 QUESTION2_027
-今日は何の日？
-キョーワナニノヒ？
-ky o o w a n a n i n o h i
+今日はなんの日？
+キョーワナンノヒ？
+ky o o w a n a N n o h i
 
 QUESTION2_028
 あなたが最強のシェフ？
