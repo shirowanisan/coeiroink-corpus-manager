@@ -1,0 +1,2120 @@
+EMOTION100_001
+えっ嘘でしょ。
+エッウソデショ。
+e cl u s o d e sh o
+
+EMOTION100_002
+シュヴァイツァーは見習うべき人間です。
+シュバイツァーワミナラウベキニンゲンデス。
+sh u b a i ts a a w a m i n a r a u b e k i n i N g e N d e s U
+
+EMOTION100_003
+デーヴィスさんはとても疲れているように見える。
+デービスサンワトテモツカレテイルヨーニミエル。
+d e e b i s u s a N w a t o t e m o ts U k a r e t e i r u y o o n i m i e r u
+
+EMOTION100_004
+スティーヴはジェーンから手紙をもらった。
+スティーブワジェーンカラテガミヲモラッタ。
+s U t i i b u w a j e e N k a r a t e g a m i o m o r a cl t a
+
+EMOTION100_005
+彼女はモーツァルトやベートーヴェンといった、古典派の作曲家が好きだ。
+カノジョワモーツァルトヤベートーベントイッタ、コテンハノサッキョクカガスキダ。
+k a n o j o w a m o o ts a r u t o y a b e e t o o b e N t o i cl t a pau k o t e N h a n o s a cl ky o k u k a g a s U k i d a
+
+EMOTION100_006
+ストラットフォードオンエイヴォンは、シェイクスピアの生まれたところですが、毎年多くの観光客が訪れます。
+ストラットフォードオンエイボンワ、シェイクスピアノウマレタトコロデスガ、マイトシオークノカンコーキャクガオトズレマス。
+s U t o r a cl t o f o o d o o N e i b o N w a pau sh e i k U s u p i a n o u m a r e t a t o k o r o d e s U g a pau m a i t o sh i o o k u n o k a N k o o ky a k u g a o t o z u r e m a s U
+
+EMOTION100_007
+彼はピューマを慣らすのに、大いに骨を折った。
+カレワピューマヲナラスノニ、オーイニホネヲオッタ。
+k a r e w a py u u m a o n a r a s u n o n i pau o o i n i h o n e o o cl t a
+
+EMOTION100_008
+彼が解雇されるとは妙な話だ。
+カレガカイコサレルトワミョーナハナシダ。
+k a r e g a k a i k o s a r e r u t o w a my o o n a h a n a sh i d a
+
+EMOTION100_009
+クリスはヴァンパイアナイトを倒した。
+クリスワヴァンパイアナイトヲタオシタ。
+k u r i s u w a v a N p a i a n a i t o o t a o sh I t a
+
+EMOTION100_010
+彼のあだ名は言い得て妙だよね。
+カレノアダナワイイエテミョーダヨネ。
+k a r e n o a d a n a w a i i e t e my o o d a y o n e
+
+EMOTION100_011
+イタリア旅行で彼は、いくつか景勝の地として有名な都市、例えば、ナポリやフィレンツェを訪れた。
+イタリアリョコーデカレワ、イクツカケーショーノチトシテユーメーナトシ、タトエバ、ナポリヤフィレンツェヲオトズレタ。
+i t a r i a ry o k o o d e k a r e w a pau i k U ts u k a k e e sh o o n o ch i t o sh I t e y u u m e e n a t o sh i pau t a t o e b a pau n a p o r i y a f i r e N ts e o o t o z u r e t a
+
+EMOTION100_012
+ゼロという概念は、ヒンドゥー文化に由来している。
+ゼロトイウガイネンワ、ヒンドゥーブンカニユライシテイル。
+z e r o t o i u g a i n e N w a pau h i N d u u b u N k a n i y u r a i sh I t e i r u
+
+EMOTION100_013
+そのいたずら娘は何食わぬ顔をした。
+ソノイタズラムスメワナニクワヌカオヲシタ。
+s o n o i t a z u r a m u s u m e w a n a n i k u w a n u k a o o sh I t a
+
+EMOTION100_014
+スミスさん、ピエールデュボワをご紹介しますわ。私の親友なの。
+スミスサン、ピエールデュボワヲゴショーカイシマスワ。ワタシノシンユーナノ。
+s u m i s u s a N pau p i e e r u dy u b o w a o g o sh o o k a i sh i m a s U w a pau w a t a sh i n o sh i N y u u n a n o
+
+EMOTION100_015
+どーすんの、このお店。完ッ全に閑古鳥が鳴いちゃってるじゃない。
+ドースンノ、コノオミセ。カンッゼンニカンコドリガナイチャッテルジャナイ。
+d o o s u N n o pau k o n o o m i s e pau k a N cl z e N n i k a N k o d o r i g a n a i ch a cl t e r u j a n a i
+
+EMOTION100_016
+頂上に着くとミンナでヤッホーと叫んだ。
+チョージョーニツクトミンナデヤッホートサケンダ。
+ch o o j o o n i ts u k U t o m i N n a d e y a cl h o o t o s a k e N d a
+
+EMOTION100_017
+あっベルが鳴ってる。
+アッベルガナッテル。
+a cl b e r u g a n a cl t e r u
+
+EMOTION100_018
+彼女は彼にぴょこんとおじぎをした。
+カノジョワカレニピョコントオジギヲシタ。
+k a n o j o w a k a r e n i py o k o N t o o j i g i o sh I t a
+
+EMOTION100_019
+男子生徒のめいめいが、帽子に学校のバッジをつけています。
+ダンシセートノメイメイガ、ボーシニガッコーノバッジヲツケテイマス。
+d a N sh I s e e t o n o m e i m e i g a pau b o o sh i n i g a cl k o o n o b a cl j i o ts U k e t e i m a s U
+
+EMOTION100_020
+ヒューズが飛んだ。
+ヒューズガトンダ。
+hy u u z u g a t o N d a
+
+EMOTION100_021
+私はポピュラー音楽を聞きたい。
+ワタシワポピュラーオンガクヲキキタイ。
+w a t a sh i w a p o py u r a a o N g a k u o k I k i t a i
+
+EMOTION100_022
+猫はにゃーにゃーと鳴く。
+ネコワニャーニャートナク。
+n e k o w a ny a a ny a a t o n a k u
+
+EMOTION100_023
+私の一番上の兄が父のミョーダイとしてその会合に出席した。
+ワタシノイチバンウエノアニガチチノミョーダイトシテソノカイゴーニシュッセキシタ。
+w a t a sh i n o i ch i b a N u e n o a n i g a ch i ch i n o my o o d a i t o sh I t e s o n o k a i g o o n i sh u cl s e k i sh I t a
+
+EMOTION100_024
+彼は首相にインタビューした。
+カレワシュショーニインタビューシタ。
+k a r e w a sh U sh o o n i i N t a by u u sh I t a
+
+EMOTION100_025
+その会社の急速な成長は、その独特な戦略によるものだった。
+ソノカイシャノキューソクナセーチョーワ、ソノドクトクナセンリャクニヨルモノダッタ。
+s o n o k a i sh a n o ky u u s o k u n a s e e ch o o w a pau s o n o d o k U t o k u n a s e N ry a k u n i y o r u m o n o d a cl t a
+
+EMOTION100_026
+私はいつもミネラルウォーターを持ち歩いています。
+ワタシワイツモミネラルウォーターヲモチアルイテイマス。
+w a t a sh i w a i ts u m o m i n e r a r u w o o t a a o m o ch i a r u i t e i m a s U
+
+EMOTION100_027
+彼女はハンドバッグを開けて家の鍵を探してみたが、見つからなかった。
+カノジョワハンドバッグヲアケテイエノカギヲサガシテミタガ、ミツカラナカッタ。
+k a n o j o w a h a N d o b a cl g u o a k e t e i e n o k a g i o s a g a sh I t e m i t a g a pau m i ts U k a r a n a k a cl t a
+
+EMOTION100_028
+彼女はスタッフをまとめていけると思いますか？
+カノジョワスタッフヲマトメテイケルトオモイマスカ？
+k a n o j o w a s U t a cl f u o m a t o m e t e i k e r u t o o m o i m a s U k a
+
+EMOTION100_029
+牛乳はあなたの体に良いだろう、毎日飲んだほうがいい。
+ギューニューワアナタノカラダニヨイダロー、マイニチノンダホーガイイ。
+gy u u ny u u w a a n a t a n o k a r a d a n i y o i d a r o o pau m a i n i ch i n o N d a h o o g a i i
+
+EMOTION100_030
+あなたは流感になりかけているか、もっと重い病気かもしれません。
+アナタワリューカンニナリカケテイルカ、モットオモイビョーキカモシレマセン。
+a n a t a w a ry u u k a N n i n a r i k a k e t e i r u k a pau m o cl t o o m o i by o o k I k a m o sh i r e m a s e N
+
+EMOTION100_031
+彼女はその事件を、生き生きとした筆致で描写した。
+カノジョワソノジケンヲ、イキイキトシタヒッチデビョーシャシタ。
+k a n o j o w a s o n o j i k e N o pau i k i i k I t o sh I t a h i cl ch i d e by o o sh a sh I t a
+
+EMOTION100_032
+彼は自らの生涯を、インドでの病人の治療に捧げるつもりだ。
+カレワミズカラノショーガイヲ、インドデノビョーニンノチリョーニササゲルツモリダ。
+k a r e w a m i z u k a r a n o sh o o g a i o pau i N d o d e n o by o o n i N n o ch i ry o o n i s a s a g e r u ts u m o r i d a
+
+EMOTION100_033
+奇妙な男で、彼は人から話し掛けられないと口をきかない。
+キミョーナオトコデ、カレワヒトカラハナシカケラレナイトクチヲキカナイ。
+k i my o o n a o t o k o d e pau k a r e w a h I t o k a r a h a n a sh I k a k e r a r e n a i t o k U ch i o k I k a n a i
+
+EMOTION100_034
+我々はその山脈で土着のガイドを雇った。
+ワレワレワソノサンミャクデドチャクノガイドヲヤトッタ。
+w a r e w a r e w a s o n o s a N my a k u d e d o ch a k u n o g a i d o o y a t o cl t a
+
+EMOTION100_035
+彼女は息子に家で行儀よくするように言った。
+カノジョワムスコニイエデギョーギヨクスルヨーニイッタ。
+k a n o j o w a m u s U k o n i i e d e gy o o g i y o k U s u r u y o o n i i cl t a
+
+EMOTION100_036
+彼はライフルを拾い上げ、それで標的をねらった。
+カレワライフルヲヒロイアゲ、ソレデヒョーテキヲネラッタ。
+k a r e w a r a i f u r u o h i r o i a g e pau s o r e d e hy o o t e k i o n e r a cl t a
+
+EMOTION100_037
+私はこの本に八百円を払った。
+ワタシワコノホンニハッピャクエンヲハラッタ。
+w a t a sh i w a k o n o h o N n i h a cl py a k u e N o h a r a cl t a
+
+EMOTION100_038
+気分が悪くて入院したが、結果的にはたいしたことはなかった。
+キブンガワルクテニューインシタガ、ケッカテキニワタイシタコトワナカッタ。
+k i b u N g a w a r u k U t e ny u u i N sh I t a g a pau k e cl k a t e k i n i w a t a i sh I t a k o t o w a n a k a cl t a
+
+EMOTION100_039
+アフィ狙いの釣り記事ですね。英語関係のコミュのあちこちにマルチポストしています。
+アフィネライノツリキジデスネ。エーゴカンケーノコミュノアチコチニマルチポストシテイマス。
+a f i n e r a i n o ts u r i k i j i d e s U n e pau e e g o k a N k e e n o k o my u n o a ch i k o ch i n i m a r u ch I p o s U t o sh I t e i m a s U
+
+EMOTION100_040
+トラベラーズチェックを現金に替えてくれるのはこの窓口ですか？
+トラベラーズチェックヲゲンキンニカエテクレルノワコノマドグチデスカ？
+t o r a b e r a a z u ch e cl k u o g e N k i N n i k a e t e k u r e r u n o w a k o n o m a d o g u ch i d e s U k a
+
+EMOTION100_041
+本日の映画は、サウンドオブミュージックでございます。
+ホンジツノエーガワ、サウンドオブミュージックデゴザイマス。
+h o N j i ts u n o e e g a w a pau s a u N d o o b u my u u j i cl k u d e g o z a i m a s U
+
+EMOTION100_042
+概してわれわれニホンジンは、外国語を話すのに少し臆病すぎる。
+ガイシテワレワレニホンジンワ、ガイコクゴヲハナスノニスコシオクビョースギル。
+g a i sh I t e w a r e w a r e n i h o N j i N w a pau g a i k o k u g o o h a n a s u n o n i s U k o sh i o k u by o o s u g i r u
+
+EMOTION100_043
+店の人は私のことを知るようになり、私はいつも同じウェイトレスに応対してもらっていた。
+ミセノヒトワワタシノコトヲシルヨーニナリ、ワタシワイツモオナジウェイトレスニオータイシテモラッテイタ。
+m i s e n o h I t o w a w a t a sh i n o k o t o o sh i r u y o o n i n a r i pau w a t a sh i w a i ts u m o o n a j i w e i t o r e s u n i o o t a i sh I t e m o r a cl t e i t a
+
+EMOTION100_044
+この丘からは何百万という星が見える。
+コノオカカラワナンビャクマントイウホシガミエル。
+k o n o o k a k a r a w a n a N by a k u m a N t o i u h o sh i g a m i e r u
+
+EMOTION100_045
+彼女は大学に入学したら、親から経済的に独立しようと思っていた。
+カノジョワダイガクニニューガクシタラ、オヤカラケーザイテキニドクリツシヨートオモッテイタ。
+k a n o j o w a d a i g a k u n i ny u u g a k u sh I t a r a pau o y a k a r a k e e z a i t e k i n i d o k u r i ts U sh i y o o t o o m o cl t e i t a
+
+EMOTION100_046
+サブマリンのペリスコープが、水中からにょっきり突き出ていた。
+サブマリンノペリスコープガ、スイチューカラニョッキリツキデテイタ。
+s a b u m a r i N n o p e r i s U k o o p u g a pau s u i ch u u k a r a ny o cl k i r i ts U k i d e t e i t a
+
+EMOTION100_047
+別にブルマに特別な関心があるわけじゃない。
+ベツニブルマニトクベツナカンシンガアルワケジャナイ。
+b e ts u n i b u r u m a n i t o k u b e ts u n a k a N sh i N g a a r u w a k e j a n a i
+
+EMOTION100_048
+そういうフェティシズムはないと思う。
+ソーユウフェティシズムワナイトオモウ。
+s o o y u u f e t I sh i z u m u w a n a i t o o m o u
+
+EMOTION100_049
+ウッド夫人が作ってくれるおいしい田舎風の料理を食べたし、ミルクをたくさん飲みました。
+ウッドフジンガツクッテクレルオイシイイナカフーノリョーリヲタベタシ、ミルクヲタクサンノミマシタ。
+u cl d o f u j i N g a ts U k u cl t e k u r e r u o i sh i i i n a k a f u u n o ry o o r i o t a b e t a sh i pau m i r u k u o t a k U s a N n o m i m a sh I t a
+
+EMOTION100_050
+私の妻が瓶をわってしまったので、台所の床は牛乳だらけになっている。
+ワタシノツマガビンヲワッテシマッタノデ、ダイドコロノユカワギューニューダラケニナッテイル。
+w a t a sh i n o ts u m a g a b i N o w a cl t e sh i m a cl t a n o d e pau d a i d o k o r o n o y u k a w a gy u u ny u u d a r a k e n i n a cl t e i r u
+
+EMOTION100_051
+喧嘩をしていた二人の子供は、お互いにしかめっ面をして座っていた。
+ケンカヲシテイタフタリノコドモワ、オタガイニシカメッツラヲシテスワッテイタ。
+k e N k a o sh I t e i t a f U t a r i n o k o d o m o w a pau o t a g a i n i sh I k a m e cl ts u r a o sh I t e s u w a cl t e i t a
+
+EMOTION100_052
+事業を継続しながら、事業が依拠している不動産を、切り売りしていくことなど非現実的なのだ。
+ジギョーヲケーゾクシナガラ、ジギョーガイキョシテイルフドーサンヲ、キリウリシテイクコトナドヒゲンジツテキナノダ。
+j i gy o o o k e e z o k U sh i n a g a r a pau j i gy o o g a i ky o sh I t e i r u f u d o o s a N o pau k i r i u r i sh I t e i k U k o t o n a d o h i g e N j i ts u t e k i n a n o d a
+
+EMOTION100_053
+しかしペパーバーグは、そのオウムを研究することによって、動物に対する考え方が変わったと言っている。
+シカシペパーバーグワ、ソノオームヲケンキュースルコトニヨッテ、ドーブツニタイスルカンガエカタガカワッタトイッテイル。
+sh I k a sh I p e p a a b a a g u w a pau s o n o o o m u o k e N ky u u s u r u k o t o n i y o cl t e pau d o o b u ts u n i t a i s u r u k a N g a e k a t a g a k a w a cl t a t o i cl t e i r u
+
+EMOTION100_054
+パックマンがある条件を満たすと、追ってくるモンスターを逆襲して食べることができる。
+パックマンガアルジョーケンヲミタスト、オッテクルモンスターヲギャクシューシテタベルコトガデキル。
+p a cl k u m a N g a a r u j o o k e N o m i t a s U t o pau o cl t e k u r u m o N s U t a a o gy a k U sh u u sh I t e t a b e r u k o t o g a d e k i r u
+
+EMOTION100_055
+その数百年後に、フォークが西洋のテーブルに現れることになるが、ただちに受け入れられたわけではなかった。
+ソノスーヒャクネンゴニ、フォークガセーヨーノテーブルニアラワレルコトニナルガ、タダチニウケイレラレタワケデワナカッタ。
+s o n o s u u hy a k u n e N g o n i pau f o o k u g a s e e y o o n o t e e b u r u n i a r a w a r e r u k o t o n i n a r u g a pau t a d a ch i n i u k e i r e r a r e t a w a k e d e w a n a k a cl t a
+
+EMOTION100_056
+トップのリーダーは犬の行動学ではアルファと呼ばれ、以下ベータ、ガンマと続きます。
+トップノリーダーワイヌノコードーガクデワアルファトヨバレ、イカベータ、ガンマトツズキマス。
+t o cl p u n o r i i d a a w a i n u n o k o o d o o g a k u d e w a a r u f a t o y o b a r e pau i k a b e e t a pau g a N m a t o ts u z u k i m a s U
+
+EMOTION100_057
+ウィーンまでは歩くとどのくらいかかりますか？
+ウィーンマデワアルクトドノクライカカリマスカ？
+w i i N m a d e w a a r u k U t o d o n o k u r a i k a k a r i m a s U k a
+
+EMOTION100_058
+すみません、このヘンに詳しくないんです。
+スミマセン、コノヘンニクワシクナインデス。
+s u m i m a s e N pau k o n o h e N n i k u w a sh i k u n a i N d e s U
+
+EMOTION100_059
+目標は授業設計をするときの、学生の思考を触発するメディア教材の選択および、活用方法について理解することである。
+モクヒョーワジュギョーセッケーヲスルトキノ、ガクセーノシコーヲショクハツスルメディアキョーザイノセンタクオヨビ、カツヨーホーホーニツイテリカイスルコトデアル。
+m o k U hy o o w a j u gy o o s e cl k e e o s u r u t o k i n o pau g a k U s e e n o sh I k o o o sh o k U h a ts U s u r u m e d i a ky o o z a i n o s e N t a k u o y o b i pau k a ts u y o o h o o h o o n i ts u i t e r i k a i s u r u k o t o d e a r u
+
+EMOTION100_060
+とりあえず店の前、掃除しといてくれ。打ち水も頼む。
+トリアエズミセノマエ、ソージシトイテクレ。ウチミズモタノム。
+t o r i a e z u m i s e n o m a e pau s o o j i sh I t o i t e k u r e pau u ch i m i z u m o t a n o m u
+
+EMOTION100_061
+人々はトーナメントが始まる何ヶ月も前に、これらの入場券を買う。
+ヒトビトワトーナメントガハジマルナンカゲツモマエニ、コレラノニュージョーケンヲカウ。
+h I t o b i t o w a t o o n a m e N t o g a h a j i m a r u n a N k a g e ts u m o m a e n i pau k o r e r a n o ny u u j o o k e N o k a u
+
+EMOTION100_062
+彼女の魅力は言葉では表現できない、とその芸術家は叫んだ。
+カノジョノミリョクワコトバデワヒョーゲンデキナイ、トソノゲージュツカワサケンダ。
+k a n o j o n o m i ry o k u w a k o t o b a d e w a hy o o g e N d e k i n a i pau t o s o n o g e e j u ts u k a w a s a k e N d a
+
+EMOTION100_063
+事象として簡単なことを、いかにも難しそうに表現する人は、あまり頭がよさそうではない。
+ジショートシテカンタンナコトヲ、イカニモムズカシソーニヒョーゲンスルヒトワ、アマリアタマガヨサソーデワナイ。
+j i sh o o t o sh I t e k a N t a N n a k o t o o pau i k a n i m o m u z u k a sh i s o o n i hy o o g e N s u r u h I t o w a pau a m a r i a t a m a g a y o s a s o o d e w a n a i
+
+EMOTION100_064
+デザインも、アーチ型のロゴデザインにより、現代的で登場感、躍動感あるものに仕上げました。
+デザインモ、アーチガタノロゴデザインニヨリ、ゲンダイテキデトージョーカン、ヤクドーカンアルモノニシアゲマシタ。
+d e z a i N m o pau a a ch i g a t a n o r o g o d e z a i N n i y o r i pau g e N d a i t e k i d e t o o j o o k a N pau y a k u d o o k a N a r u m o n o n i sh i a g e m a sh I t a
+
+EMOTION100_065
+そんなに慌てて運転して、一体どこへ行こうってんだよ。
+ソンナニアワテテウンテンシテ、イッタイドコエイコーッテンダヨ。
+s o N n a n i a w a t e t e u N t e N sh I t e pau i cl t a i d o k o e i k o o cl t e N d a y o
+
+EMOTION100_066
+時間はあるんだから、安全運転してくれよ。
+ジカンワアルンダカラ、アンゼンウンテンシテクレヨ。
+j i k a N w a a r u N d a k a r a pau a N z e N u N t e N sh I t e k u r e y o
+
+EMOTION100_067
+ディスプレイはモニタともいい、コンピュータなどの機器から出力される静止画、または動画の映像信号を表示する機器である。
+ディスプレイワモニタトモイイ、コンピュータナドノキキカラシュツリョクサレルセーシガ、マタワドーガノエーゾーシンゴーヲヒョージスルキキデアル。
+d i s U p u r e i w a m o n i t a t o m o i i pau k o N py u u t a n a d o n o k i k I k a r a sh U ts u ry o k U s a r e r u s e e sh i g a pau m a t a w a d o o g a n o e e z o o sh i N g o o o hy o o j i s u r u k i k i d e a r u
+
+EMOTION100_068
+撃ち合いが少し静まったとき、パパが走ってフラットに行って、私たちにサンドイッチを持ってきてくれたわ。
+ウチアイガスコシシズマッタトキ、パパガハシッテフラットニイッテ、ワタシタチニサンドイッチヲモッテキテクレタワ。
+u ch i a i g a s U k o sh I sh i z u m a cl t a t o k i pau p a p a g a h a sh i cl t e f u r a cl t o n i i cl t e pau w a t a sh i t a ch i n i s a N d o i cl ch i o m o cl t e k i t e k u r e t a w a
+
+EMOTION100_069
+ギリシャのフットボールの試合では、一方のチームの選手は、相手チームの陣地のラインの向こう側にボールを持ち込もうとしたのです。
+ギリシャノフットボールノシアイデワ、イッポーノチームノセンシュワ、アイテチームノジンチノラインノムコーガワニボールヲモチコモートシタノデス。
+g i r i sh a n o f u cl t o b o o r u n o sh i a i d e w a pau i cl p o o n o ch i i m u n o s e N sh u w a pau a i t e ch i i m u n o j i N ch i n o r a i N n o m u k o o g a w a n i b o o r u o m o ch I k o m o o t o sh I t a n o d e s U
+
+EMOTION100_070
+泳者のシンディーニコラスは、へとへとになって泳ぎ切った後、ドーバーでかろうじて陸に上がってきたが、海峡水泳協会のスポークスマンは、彼女がとても元気であると発表した。
+エーシャノシンディーニコラスワ、ヘトヘトニナッテオヨギキッタアト、ドーバーデカロージテリクニアガッテキタガ、カイキョースイエーキョーカイノスポークスマンワ、カノジョガトテモゲンキデアルトハッピョーシタ。
+e e sh a n o sh i N d i i n i k o r a s u w a pau h e t o h e t o n i n a cl t e o y o g i k i cl t a a t o pau d o o b a a d e k a r o o j i t e r i k u n i a g a cl t e k i t a g a pau k a i ky o o s u i e e ky o o k a i n o s U p o o k U s u m a N w a pau k a n o j o g a t o t e m o g e N k i d e a r u t o h a cl py o o sh I t a
+
+EMOTION100_071
+若い男女が人里離れた洋館で恐怖の一夜を過ごすという、ホラーの定番スタイルだ。
+ワカイダンジョガヒトザトハナレタヨーカンデキョーフノイチヤヲスゴストイウ、ホラーノテーバンスタイルダ。
+w a k a i d a N j o g a h I t o z a t o h a n a r e t a y o o k a N d e ky o o f u n o i ch i y a o s u g o s U t o i u pau h o r a a n o t e e b a N s U t a i r u d a
+
+EMOTION100_072
+一つには、西洋人ではない人々が自分たち独自の文化に誇りを持ち始めてきたためと、また一つには、フォークを使わないそれらの地域は最も高い出生率の地域を抱えているという理由から、このことは当たっている。
+ヒトツニワ、セーヨージンデワナイヒトビトガジブンタチドクジノブンカニホコリヲモチハジメテキタタメト、マタヒトツニワ、フォークヲツカワナイソレラノチイキワモットモタカイシュッショーリツノチイキヲカカエテイルトイウリユーカラ、コノコトワアタッテイル。
+h I t o ts u n i w a pau s e e y o o j i N d e w a n a i h I t o b i t o g a j i b u N t a ch i d o k u j i n o b u N k a n i h o k o r i o m o ch i h a j i m e t e k i t a t a m e t o pau m a t a h I t o ts u n i w a pau f o o k u o ts U k a w a n a i s o r e r a n o ch i i k i w a m o cl t o m o t a k a i sh u cl sh o o r i ts u n o ch i i k i o k a k a e t e i r u t o i u r i y u u k a r a pau k o n o k o t o w a a t a cl t e i r u
+
+EMOTION100_073
+私たちは恐怖の中で生きていて、苦しんでいるの。
+ワタシタチワキョーフノナカデイキテイテ、クルシンデイルノ。
+w a t a sh i t a ch i w a ky o o f u n o n a k a d e i k i t e i t e pau k u r u sh i N d e i r u n o
+
+EMOTION100_074
+太陽も花も楽しめないし、私たちの子供時代も楽しめないのよ。
+タイヨーモハナモタノシメナイシ、ワタシタチノコドモジダイモタノシメナイノヨ。
+t a i y o o m o h a n a m o t a n o sh i m e n a i sh i pau w a t a sh i t a ch i n o k o d o m o j i d a i m o t a n o sh i m e n a i n o y o
+
+EMOTION100_075
+弊社のエンジニアがニホンコクナイで販売されている同様の製品と仕様を比較した結果、非常に競合力があると判断いたしました。
+ヘーシャノエンジニアガニホンコクナイデハンバイサレテイルドーヨーノセーヒントシヨーヲヒカクシタケッカ、ヒジョーニキョーゴーリョクガアルトハンダンイタシマシタ。
+h e e sh a n o e N j i n i a g a n i h o N k o k u n a i d e h a N b a i s a r e t e i r u d o o y o o n o s e e h i N t o sh i y o o o h I k a k u sh I t a k e cl k a pau h i j o o n i ky o o g o o ry o k u g a a r u t o h a N d a N i t a sh i m a sh I t a
+
+EMOTION100_076
+ノースウエスタン大学の研究者、アイリーンペパーバーグは、オウムは人の口まねをするだけでなく言葉の意味を学ぶことができることを発見しつつある。
+ノースウエスタンダイガクノケンキューシャ、アイリーンペパーバーグワ、オームワヒトノクチマネヲスルダケデナクコトバノイミヲマナブコトガデキルコトヲハッケンシツツアル。
+n o o s u u e s U t a N d a i g a k u n o k e N ky u u sh a pau a i r i i N p e p a a b a a g u w a pau o o m u w a h I t o n o k U ch i m a n e o s u r u d a k e d e n a k U k o t o b a n o i m i o m a n a b u k o t o g a d e k i r u k o t o o h a cl k e N sh I ts u ts u a r u
+
+EMOTION100_077
+名前をテョといいます。
+ナマエヲテョトイイマス。
+n a m a e o ty o t o i i m a s U
+
+EMOTION100_078
+ぴゅうぴゅう風が吹きこんでくる。
+ピューピューカゼガフキコンデクル。
+py u u py u u k a z e g a f U k i k o N d e k u r u
+
+EMOTION100_079
+キェー。ギェー。イェーイ。
+キェー。ギェー。イェーイ。
+ky e e pau gy e e pau y e e i
+
+EMOTION100_080
+ひぇーん。びぇーん。ぴぇーん。
+ヒェーン。ビェーン。ピェーン。
+hy e e N pau by e e N pau py e e N
+
+EMOTION100_081
+プリミェー。ミェルン。ニェン。
+プリミェー。ミェルン。ニェン。
+p u r i my e e pau my e r u N pau ny e N
+
+EMOTION100_082
+ステューデント。ダブルデュアル。
+スチューデント。ダブルデュアル。
+s U ch u u d e N t o pau d a b u r u dy u a r u
+
+EMOTION100_083
+エテュード。エデュケーショナル。サブスティテューション。
+エテュード。エデュケーショナル。サブスティテューション。
+e t e y u u d o pau e dy u k e e sh o n a r u pau s a b u s U t i ty u u sh o N
+
+EMOTION100_084
+ジャデャクシュ。
+ジャデャクシュ。
+j a dy a k u sh u
+
+EMOTION100_085
+ブレンドデョート。
+ブレンドデョート。
+b u r e N d o dy o o t o
+
+EMOTION100_086
+イデュスルファーゼ。
+イデュスルファーゼ。
+i d e y u s u r u f a a z e
+
+EMOTION100_087
+あっあの。
+アッアノ。
+a cl a n o
+
+EMOTION100_088
+いっいえ。
+イッイエ。
+i cl i e
+
+EMOTION100_089
+えっえぇ。
+エッエェ。
+e cl e e
+
+EMOTION100_090
+おっおい。
+オッオイ。
+o cl o i
+
+EMOTION100_091
+んーとね。
+ンートネ。
+N N t o n e
+
+EMOTION100_092
+アンツィオ。
+アンツィオ。
+a N ts i o
+
+EMOTION100_093
+エンツォ。
+エンツォ。
+e N ts o
+
+EMOTION100_094
+カートゥーン。
+カートゥーン。
+k a a t u u N
+
+EMOTION100_095
+スィーディー。
+スィーディー。
+s i i d i i
+
+EMOTION100_096
+ズィーブラ。
+ズィーブラ。
+z i i b u r a
+
+EMOTION100_097
+デピュティーガバナー。
+デピュティーガバナー。
+d e py u t i i g a b a n a a
+
+EMOTION100_098
+エリュシオン。
+エリュシオン。
+e ry u sh i o N
+
+EMOTION100_099
+ガリェント。
+ガリエント。
+g a r i e N t o
+
+EMOTION100_100
+ラーテャン。
+ラーテャン。
+r a a ty a N
+
+RECITATION324_001
+女の子がキッキッ嬉しそう。
+オンナノコガキッキッウレシソー。
+o N n a n o k o g a k i cl k i cl u r e sh i s o o
+
+RECITATION324_002
+ツァツォに旅行した。
+ツァツォニリョコーシタ。
+ts a ts o n i ry o k o o sh I t a
+
+RECITATION324_003
+民衆がテュルリーキュウデンに侵入した。
+ミンシューガテュルリーキュウデンニシンニューシタ。
+m i N sh u u g a ty u r u r i i ky u u d e N n i sh i N ny u u sh I t a
+
+RECITATION324_004
+ハイチ共和国でトゥーサンルーヴェルテュールが勝利を収められたのは、実際黄熱病のおかげだった。
+ハイチキョーワコクデトーーサンルーヴェルテュールガショーリヲオサメラレタノワ、ジッサイオーネツビョーノオカゲダッタ。
+h a i ch I ky o o w a k o k u d e t o o o s a N r u u v e r u ty u u r u g a sh o o r i o o s a m e r a r e t a n o w a pau j i cl s a i o o n e ts u by o o n o o k a g e d a cl t a
+
+RECITATION324_005
+レジャンドルは民衆をテュルリーキュウデンに招いた。
+レジャンドルワミンシューヲテュルリーキュウデンニマネイタ。
+r e j a N d o r u w a m i N sh u u o ty u r u r i i ky u u d e N n i m a n e i t a
+
+RECITATION324_006
+助言はできないとデュパンは言った。
+ジョゲンワデキナイトデュパンワイッタ。
+j o g e N w a d e k i n a i t o dy u p a N w a i cl t a
+
+RECITATION324_007
+フランス人シェフとニホンジンシェフは全然違う。
+フランスジンシェフトニホンジンシェフワゼンゼンチガウ。
+f u r a N s u j i N sh e f U t o n i h o N j i N sh e f u w a z e N z e N ch i g a u
+
+RECITATION324_008
+中国の外交団にアタッシェとして派遣された。
+チューゴクノガイコーダンニアタッシェトシテハケンサレタ。
+ch u u g o k u n o g a i k o o d a N n i a t a cl sh e t o sh I t e h a k e N s a r e t a
+
+RECITATION324_009
+ファシズム勢力とのソーリョクセンに臨む。
+ファシズムセーリョクトノソーリョクセンニノゾム。
+f a sh i z u m u s e e ry o k U t o n o s o o ry o k u s e N n i n o z o m u
+
+RECITATION324_010
+家具商人のフィシェルは、荷車と仔馬を貸してくれた。
+カグショーニンノフィシェルワ、ニグルマトコウマヲカシテクレタ。
+k a g u sh o o n i N n o f i sh e r u w a pau n i g u r u m a t o k o u m a o k a sh I t e k u r e t a
+
+RECITATION324_011
+ローカル路線にはファンも多い。
+ローカルロセンニワファンモオーイ。
+r o o k a r u r o s e N n i w a f a N m o o o i
+
+RECITATION324_012
+フェイントで相手をかわしてからシュートでフィニッシュした。
+フェイントデアイテヲカワシテカラシュートデフィニッシュシタ。
+f e i N t o d e a i t e o k a w a sh I t e k a r a sh u u t o d e f i n i cl sh u sh I t a
+
+RECITATION324_013
+1877、プフェファーにより浸透現象が発見された。
+センハッピャクナナジューナナ、プフェファーニヨリシントーゲンショーガハッケンサレタ。
+s e N h a cl py a k u n a n a j u u n a n a pau p u f e f a a n i y o r i sh i N t o o g e N sh o o g a h a cl k e N s a r e t a
+
+RECITATION324_014
+揺れるフェリーに乗るのは私にとって苦行です。
+ユレルフェリーニノルノワワタシニトッテクギョーデス。
+y u r e r u f e r i i n i n o r u n o w a w a t a sh i n i t o cl t e k u gy o o d e s U
+
+RECITATION324_015
+ホルロアラティタルッフォという特別なお料理も出ました。
+ホルロアラティタルッフォトイウトクベツナオリョーリモデマシタ。
+h o r u r o a r a t I t a r u cl f o t o i u t o k u b e ts u n a o ry o o r i m o d e m a sh I t a
+
+RECITATION324_016
+笛の音がなるとウサギのキッドが早速ぴょんと跳ねた。
+フエノオトガナルトウサギノキッドガサッソクピョントハネタ。
+f u e n o o t o g a n a r u t o u s a g i n o k i cl d o g a s a cl s o k U py o N t o h a n e t a
+
+RECITATION324_017
+あのリョキャクは噂のキャフェに行くようです。
+アノリョキャクワウワサノキャフェニイクヨーデス。
+a n o ry o ky a k u w a u w a s a n o ky a f e n i i k u y o o d e s U
+
+RECITATION324_018
+目標は一等賞です。
+モクヒョーワイットーショーデス。
+m o k U hy o o w a i cl t o o sh o o d e s U
+
+RECITATION324_019
+ウサギのキッドは気分よくピョン、またピョンと飛び続けた。
+ウサギノキッドワキブンヨクピョン、マタピョントトビツズケタ。
+u s a g i n o k i cl d o w a k i b u N y o k U py o N pau m a t a py o N t o t o b i ts u z u k e t a
+
+RECITATION324_020
+アフタヌーンティーを楽しみましょう。
+アフタヌーンティーヲタノシミマショー。
+a f U t a n u u N t i i o t a n o sh i m i m a sh o o
+
+RECITATION324_021
+彼女はティピカルなフェミニストです。
+カノジョワティピカルナフェミニストデス。
+k a n o j o w a t i p I k a r u n a f e m i n i s U t o d e s U
+
+RECITATION324_022
+助手たちとミッツィは探している書類を見つけられなかった。
+ジョシュタチトミッツィワサガシテイルショルイヲミツケラレナカッタ。
+j o sh u t a ch I t o m i cl ts i w a s a g a sh I t e i r u sh o r u i o m i ts U k e r a r e n a k a cl t a
+
+RECITATION324_023
+フィレンツェ、パドヴァ、ヴェネツィアはどれもイタリアの都市です。
+フィレンツェ、パドバ、ヴェネツィアワドレモイタリアノトシデス。
+f i r e N ts e pau p a d o b a pau v e n e ts i a w a d o r e m o i t a r i a n o t o sh i d e s U
+
+RECITATION324_024
+楽譜に次のように書いてあるのが、エーフェリチェです。
+ガクフニツギノヨーニカイテアルノガ、エーフェリチェデス。
+g a k U f u n i ts u g i n o y o o n i k a i t e a r u n o g a pau e e f e r i ch e d e s U
+
+RECITATION324_025
+ショペンハウエルとニーチェの哲学書を本棚から取り出した。
+ショペンハウエルトニーチェノテツガクショヲホンダナカラトリダシタ。
+sh o p e N h a u e r u t o n i i ch e n o t e ts u g a k U sh o o h o N d a n a k a r a t o r i d a sh I t a
+
+RECITATION324_026
+早速召使い全員に知らせましょう。
+サッソクメシツカイゼンインニシラセマショー。
+s a cl s o k u m e sh I ts u k a i z e N i N n i sh i r a s e m a sh o o
+
+RECITATION324_027
+重い綿入を脱いで、あわせに着替える。
+オモイワタイレヲヌイデ、アワセニキガエル。
+o m o i w a t a i r e o n u i d e pau a w a s e n i k i g a e r u
+
+RECITATION324_028
+ボストンで、とあるチョプスイ屋へ入って夕飯を食った。
+ボストンデ、トアルチョプスイヤエハイッテユーハンヲクッタ。
+b o s U t o N d e pau t o a r u ch o p u s u i y a e h a i cl t e y u u h a N o k u cl t a
+
+RECITATION324_029
+ろくすっぽ休憩をとらず働いた。
+ロクスッポキューケーヲトラズハタライタ。
+r o k U s u cl p o ky u u k e e o t o r a z u h a t a r a i t a
+
+RECITATION324_030
+かつて一人で国府に侵入した。
+カツテヒトリデコクフニシンニューシタ。
+k a ts U t e h I t o r i d e k o k U f u n i sh i N ny u u sh I t a
+
+RECITATION324_031
+だが、今日お前がここへゴジュライになったのは、どんなご用なのかな？
+ダガ、キョーオマエガココエゴジュライニナッタノワ、ドンナゴヨーナノカナ？
+d a g a pau ky o o o m a e g a k o k o e g o j u r a i n i n a cl t a n o w a pau d o N n a g o y o o n a n o k a n a
+
+RECITATION324_032
+サブフランチャイザーを増やして目指せ百店舗。
+サブフランチャイザーヲフヤシテメザセヒャクテンポ。
+s a b u f u r a N ch a i z a a o f u y a sh I t e m e z a s e hy a k U t e N p o
+
+RECITATION324_033
+四国でお遍路を行脚しよう。
+シコクデオヘンロヲアンギャシヨー。
+sh i k o k u d e o h e N r o o a N gy a sh i y o o
+
+RECITATION324_034
+いつもの通りギャンギャン泣き出しました。
+イツモノトーリギャンギャンナキダシマシタ。
+i ts u m o n o t o o r i gy a N gy a N n a k i d a sh i m a sh I t a
+
+RECITATION324_035
+先生は、立ったままニュースを見ていました。
+センセーワ、タッタママニュースヲミテイマシタ。
+s e N s e e w a pau t a cl t a m a m a ny u u s u o m i t e i m a sh I t a
+
+RECITATION324_036
+私はギョッと目を見開いた。
+ワタシワギョットメヲミヒライタ。
+w a t a sh i w a gy o cl t o m e o m i h i r a i t a
+
+RECITATION324_037
+友達へニューイヤーカードを送ろう。
+トモダチエニューイヤーカードヲオクロー。
+t o m o d a ch i e ny u u i y a a k a a d o o o k u r o o
+
+RECITATION324_038
+家政婦は休みにおしゃれなアウターウェアに身を包み一人で屋台を楽しみました。
+カセーフワヤスミニオシャレナアウターウェアニミヲツツミヒトリデヤタイヲタノシミマシタ。
+k a s e e f u w a y a s u m i n i o sh a r e n a a u t a a w e a n i m i o ts U ts u m i h I t o r i d e y a t a i o t a n o sh i m i m a sh I t a
+
+RECITATION324_039
+ウォッカのお供には塩漬けのきゅうりがあいます。
+ウォッカノオトモニワシオズケノキュウリガアイマス。
+w o cl k a n o o t o m o n i w a sh i o z u k e n o ky u u r i g a a i m a s U
+
+RECITATION324_040
+山の向こうのミュンヒェンの人たちが攻撃をしかけた。
+ヤマノムコーノミュンヘンノヒトタチガコーゲキヲシカケタ。
+y a m a n o m u k o o n o my u N h e N n o h I t o t a ch i g a k o o g e k i o sh I k a k e t a
+
+RECITATION324_041
+ボスニア国境からの攻撃により、十一月にヴァリェヴォが占領された。
+ボスニアコッキョーカラノコーゲキニヨリ、ジューイチガツニバリエヴォガセンリョーサレタ。
+b o s u n i a k o cl ky o o k a r a n o k o o g e k i n i y o r i pau j u u i ch i g a ts u n i b a r i e v o g a s e N ry o o s a r e t a
+
+RECITATION324_042
+シルヴィウスはデュボアと呼ばれていたフランスのユグノーの家に生まれた。
+シルビウスワデュボアトヨバレテイタフランスノユグノーノイエニウマレタ。
+sh i r u b i u s u w a dy u b o a t o y o b a r e t e i t a f u r a N s u n o y u g u n o o n o i e n i u m a r e t a
+
+RECITATION324_043
+そのほかに私に出来ることはなかったのです、百合枝は涙声になった。
+ソノホカニワタシニデキルコトワナカッタノデス、ユリエワナミダゴエニナッタ。
+s o n o h o k a n i w a t a sh i n i d e k i r u k o t o w a n a k a cl t a n o d e s U pau y u r i e w a n a m i d a g o e n i n a cl t a
+
+RECITATION324_044
+ガル博士百体近く。
+ガルハカセヒャクタイチカク。
+g a r u h a k a s e hy a k U t a i ch i k a k u
+
+RECITATION324_045
+ニホン政府からの百兆円を超える予算要求。
+ニホンセーフカラノヒャクチョーエンヲコエルヨサンヨーキュー。
+n i h o N s e e f U k a r a n o hy a k u ch o o e N o k o e r u y o s a N y o o ky u u
+
+RECITATION324_046
+写経の美しさに私は仰天してしまった。
+シャキョーノウツクシサニワタシワギョーテンシテシマッタ。
+sh a ky o o n o u ts U k u sh i s a n i w a t a sh i w a gy o o t e N sh I t e sh i m a cl t a
+
+RECITATION324_047
+ソプラノ歌手ポリランダチョは歌劇アイーダの特別名歌手と評判です。
+ソプラノカシュポリランダチョワカゲキアイーダノトクベツメーカシュトヒョーバンデス。
+s o p u r a n o k a sh U p o r i r a N d a ch o w a k a g e k i a i i d a n o t o k u b e ts u m e e k a sh U t o hy o o b a N d e s U
+
+RECITATION324_048
+貴方には最初百ポンド渡します。
+アナタニワサイショヒャクポンドワタシマス。
+a n a t a n i w a s a i sh o hy a k U p o N d o w a t a sh i m a s U
+
+RECITATION324_049
+社長からの指示です。
+シャチョーカラノシジデス。
+sh a ch o o k a r a n o sh i j i d e s U
+
+RECITATION324_050
+どうも気まぐれというものは多少メフィスティックなものであるらしい。
+ドーモキマグレトイウモノワタショーメフィスティックナモノデアルラシイ。
+d o o m o k i m a g u r e t o i u m o n o w a t a sh o o m e f i s U t i cl k u n a m o n o d e a r u r a sh i i
+
+RECITATION324_051
+蛙がピョコピョコ飛び回っています。
+カエルガピョコピョコトビマワッテイマス。
+k a e r u g a py o k o py o k o t o b i m a w a cl t e i m a s U
+
+RECITATION324_052
+魔境に足を踏み入れる。
+マキョーニアシヲフミイレル。
+m a ky o o n i a sh i o f u m i i r e r u
+
+RECITATION324_053
+ヴァンダーヴォットタイム中は、いわゆるパーティーのようで晴れやかです。
+バンダーヴォットタイムチューワ、イワユルパーティーノヨーデハレヤカデス。
+b a N d a a v o cl t o t a i m u ch u u w a pau i w a y u r u p a a t i i n o y o o d e h a r e y a k a d e s U
+
+RECITATION324_054
+スピリッツとは蒸留酒の事です。
+スピリッツトワジョーリューシュノコトデス。
+s U p i r i cl ts U t o w a j o o ry u u sh u n o k o t o d e s U
+
+RECITATION324_055
+ヌルシアのベネディクトゥスはアポロン神殿を壊し、ベネディクト会の修道院を建てた。
+ヌルシアノベネディクトゥスワアポロンシンデンヲコワシ、ベネディクトカイノシュードーインヲタテタ。
+n u r u sh i a n o b e n e d i k u t U s u w a a p o r o N sh i N d e N o k o w a sh i pau b e n e d i k U t o k a i n o sh u u d o o i N o t a t e t a
+
+RECITATION324_056
+ちょうどそのとき、デストゥパーゴがコップをもって立ちあがりました。
+チョードソノトキ、デストゥパーゴガコップヲモッテタチアガリマシタ。
+ch o o d o s o n o t o k i pau d e s U t u p a a g o g a k o cl p u o m o cl t e t a ch i a g a r i m a sh I t a
+
+RECITATION324_057
+パフィーのグッズが残らず部屋に落ち着いた。
+パフィーノグッズガノコラズヘヤニオチツイタ。
+p a f i i n o g u cl z u g a n o k o r a z u h e y a n i o ch I ts u i t a
+
+RECITATION324_058
+エピファーノフは財布を無くした。
+エピファーノフワサイフヲナクシタ。
+e p i f a a n o f u w a s a i f u o n a k u sh I t a
+
+RECITATION324_059
+ポピュラーなソフトを使いセキュアな状態を復旧する。
+ポピュラーナソフトヲツカイセキュアナジョータイヲフッキュースル。
+p o py u r a a n a s o f U t o o ts U k a i s e ky u a n a j o o t a i o f u cl ky u u s u r u
+
+RECITATION324_060
+チョコの在庫あったかな？
+チョコノザイコアッタカナ？
+ch o k o n o z a i k o a cl t a k a n a
+
+RECITATION324_061
+おめえ、この仕込みにゃあ、どのくれえ時間かかるか知ってっか。
+オメー、コノシコミニャー、ドノクレージカンカカルカシッテッカ。
+o m e e pau k o n o sh I k o m i ny a a pau d o n o k u r e e j i k a N k a k a r u k a sh i cl t e cl k a
+
+RECITATION324_062
+それに、このほうが体のためにゃずっといいんだからね。
+ソレニ、コノホーガカラダノタメニャズットイインダカラネ。
+s o r e n i pau k o n o h o o g a k a r a d a n o t a m e ny a z u cl t o i i N d a k a r a n e
+
+RECITATION324_063
+夏休みに、トラアヴェミュンへ旅行した。
+ナツヤスミニ、トラアベミュンエリョコーシタ。
+n a ts u y a s u m i n i pau t o r a a b e my u N e ry o k o o sh I t a
+
+RECITATION324_064
+ここで一緒にウェイクフィールドの叔母を待った。
+ココデイッショニウェークフィールドノオバヲマッタ。
+k o k o d e i cl sh o n i w e e k U f i i r u d o n o o b a o m a cl t a
+
+RECITATION324_065
+八つになるウォルターと一緒に出た兄弟がいたが、ウォルターだけ発見された。
+ヤッツニナルウォルタートイッショニデタキョーダイガイタガ、ウォルターダケハッケンサレタ。
+y a cl ts u n i n a r u w o r u t a a t o i cl sh o n i d e t a ky o o d a i g a i t a g a pau w o r u t a a d a k e h a cl k e N s a r e t a
+
+RECITATION324_066
+最初のジョブはウォーリアがいいと思います。
+サイショノジョブワウォーリアガイイトオモイマス。
+s a i sh o n o j o b u w a w o o r i a g a i i t o o m o i m a s U
+
+RECITATION324_067
+およそ六百メートル先を右折です。
+オヨソロッピャクメートルサキヲウセツデス。
+o y o s o r o cl py a k u m e e t o r u s a k i o u s e ts u d e s U
+
+RECITATION324_068
+シンテンオープンのレセプションに沢山のお客さんを招待した。
+シンテンオープンノレセプションニタクサンノオキャクサンヲショータイシタ。
+sh i N t e N o o p u N n o r e s e p U sh o N n i t a k U s a N n o o ky a k U s a N o sh o o t a i sh I t a
+
+RECITATION324_069
+脚本作者ピエールオービュルナンの給仕クレマンが、主人の書斎の戸を大切そうに開いた。
+キャクホンサクシャピエールオービュルナンノキュージクレマンガ、シュジンノショサイノトヲタイセツソーニヒライタ。
+ky a k U h o N s a k U sh a p i e e r u o o by u r u n a N n o ky u u j i k u r e m a N g a pau sh u j i N n o sh o s a i n o t o o t a i s e ts u s o o n i h i r a i t a
+
+RECITATION324_070
+われわれは、天主教徒か長老教会派のもので、天主教徒が多数を占めている。
+ワレワレワ、テンシュキョートカチョーローキョーカイハノモノデ、テンシュキョートガタスーヲシメテイル。
+w a r e w a r e w a pau t e N sh U ky o o t o k a ch o o r o o ky o o k a i h a n o m o n o d e pau t e N sh U ky o o t o g a t a s u u o sh i m e t e i r u
+
+RECITATION324_071
+結局のところお互いゴジッポ百歩だ。
+ケッキョクノトコロオタガイゴジッポヒャッポダ。
+k e cl ky o k u n o t o k o r o o t a g a i g o j i cl p o hy a cl p o d a
+
+RECITATION324_072
+突拍子もない話だが、決して嘘ではない。
+トッピョーシモナイハナシダガ、ケッシテウソデワナイ。
+t o cl py o o sh i m o n a i h a n a sh i d a g a pau k e cl sh I t e u s o d e w a n a i
+
+RECITATION324_073
+ネットで懸案の解決を目指す。
+ネットデケンアンノカイケツヲメザス。
+n e cl t o d e k e N a N n o k a i k e ts u o m e z a s u
+
+RECITATION324_074
+切れ味鋭いペティナイフは使い勝手が良い。
+キレアジスルドイペティナイフワツカイガッテガヨイ。
+k i r e a j i s u r u d o i p e t i n a i f u w a ts U k a i g a cl t e g a y o i
+
+RECITATION324_075
+指をくわえてぴゅーとヒトコエ口笛を吹いた。
+ユビヲクワエテピュートヒトコエクチブエヲフイタ。
+y u b i o k u w a e t e py u u t o h I t o k o e k u ch i b u e o f u i t a
+
+RECITATION324_076
+クレンペ教頭は無骨な男だが、自分の学問の秘密には深く浸っていた。
+クレンペキョートーワブコツナオトコダガ、ジブンノガクモンノヒミツニワフカクヒタッテイタ。
+k u r e N p e ky o o t o o w a b u k o ts u n a o t o k o d a g a pau j i b u N n o g a k u m o N n o h i m i ts u n i w a f U k a k U h i t a cl t e i t a
+
+RECITATION324_077
+尻尾ふりたて、ひげくいそらす。
+シッポフリタテ、ヒゲクイソラス。
+sh i cl p o f u r i t a t e pau h i g e k u i s o r a s u
+
+RECITATION324_078
+すべての獲物を望みどおりに狙う技術がある。
+スベテノエモノヲノゾミドーリニネラウギジュツガアル。
+s u b e t e n o e m o n o o n o z o m i d o o r i n i n e r a u g i j u ts u g a a r u
+
+RECITATION324_079
+タコのグニャグニャした感触が嫌だ。
+タコノグニャグニャシタカンショクガイヤダ。
+t a k o n o g u ny a g u ny a sh I t a k a N sh o k u g a i y a d a
+
+RECITATION324_080
+私たちは、抽象的意識的自己を否定することで、本当の自己とはシンジンイチニョだということを知る。
+ワタシタチワ、チューショーテキイシキテキジコヲヒテースルコトデ、ホントーノジコトワシンジンイチニョダトイウコトヲシル。
+w a t a sh i t a ch i w a pau ch u u sh o o t e k i i sh I k i t e k i j i k o o h I t e e s u r u k o t o d e pau h o N t o o n o j i k o t o w a sh i N j i N i ch i ny o d a t o i u k o t o o sh i r u
+
+RECITATION324_081
+鹿島明神が釘で刺し貫いて、魚が動かないようにしている。
+カシマミョージンガクギデサシツラヌイテ、サカナガウゴカナイヨーニシテイル。
+k a sh i m a my o o j i N g a k u g i d e s a sh i ts u r a n u i t e pau s a k a n a g a u g o k a n a i y o o n i sh I t e i r u
+
+RECITATION324_082
+私は手始めに、同業者から話を聞く努力をした。
+ワタシワテハジメニ、ドーギョーシャカラハナシヲキクドリョクヲシタ。
+w a t a sh i w a t e h a j i m e n i pau d o o gy o o sh a k a r a h a n a sh i o k I k u d o ry o k u o sh I t a
+
+RECITATION324_083
+とてもうれしそうにぴょんぴょん跳ねて出ていった。
+トテモウレシソーニピョンピョンハネテデテイッタ。
+t o t e m o u r e sh i s o o n i py o N py o N h a n e t e d e t e i cl t a
+
+RECITATION324_084
+二分だけのオルガン演奏で終わってしまった。
+ニフンダケノオルガンエンソーデオワッテシマッタ。
+n i f u N d a k e n o o r u g a N e N s o o d e o w a cl t e sh i m a cl t a
+
+RECITATION324_085
+ニセ教会に騙されるな。
+ニセキョーカイニダマサレルナ。
+n i s e ky o o k a i n i d a m a s a r e r u n a
+
+RECITATION324_086
+およそ百年前には、薬剤として薬屋で売っていた。
+オヨソヒャクネンマエニワ、ヤクザイトシテクスリヤデウッテイタ。
+o y o s o hy a k u n e N m a e n i w a pau y a k u z a i t o sh I t e k U s u r i y a d e u cl t e i t a
+
+RECITATION324_087
+いっそ脚本家を目指した方がいいかとも考えた。
+イッソキャクホンカヲメザシタホーガイイカトモカンガエタ。
+i cl s o ky a k U h o N k a o m e z a sh I t a h o o g a i i k a t o m o k a N g a e t a
+
+RECITATION324_088
+この書物に誤謬があっても、純一でない何ものにもインフェクトしないでしょう。
+コノショモツニゴビューガアッテモ、ジュンイツデナイナニモノニモインフェクトシナイデショー。
+k o n o sh o m o ts u n i g o by u u g a a cl t e m o pau j u N i ts u d e n a i n a n i m o n o n i m o i N f e k U t o sh i n a i d e sh o o
+
+RECITATION324_089
+仏教はインド由来の宗教です。
+ブッキョーワインドユライノシューキョーデス。
+b u cl ky o o w a i N d o y u r a i n o sh u u ky o o d e s U
+
+RECITATION324_090
+キャリーバッグは旅行に必須。
+キャリーバッグワリョコーニヒッス。
+ky a r i i b a cl g u w a ry o k o o n i h i cl s u
+
+RECITATION324_091
+本番前はメチャメチャ不安になる。
+ホンバンマエワメチャメチャフアンニナル。
+h o N b a N m a e w a m e ch a m e ch a f u a N n i n a r u
+
+RECITATION324_092
+三角関数においてピュタゴラスの定理は必須です。
+サンカクカンスーニオイテピュタゴラスノテーリワヒッスデス。
+s a N k a k U k a N s u u n i o i t e py U t a g o r a s u n o t e e r i w a h i cl s u d e s U
+
+RECITATION324_093
+著名なラニョン博士が患者と接していた。
+チョメーナラニョンハカセガカンジャトセッシテイタ。
+ch o m e e n a r a ny o N h a k a s e g a k a N j a t o s e cl sh i t e i t a
+
+RECITATION324_094
+おもちゃの刀を持った少年が、オヒャクドイシに寄りかかっている。
+オモチャノカタナヲモッタショーネンガ、オヒャクドイシニヨリカカッテイル。
+o m o ch a n o k a t a n a o m o cl t a sh o o n e N g a pau o hy a k u d o i sh i n i y o r i k a k a cl t e i r u
+
+RECITATION324_095
+食料の補給が急務であると伝えられた。
+ショクリョーノホキューガキュームデアルトツタエラレタ。
+sh o k u ry o o n o h o ky u u g a ky u u m u d e a r u t o ts U t a e r a r e t a
+
+RECITATION324_096
+展示会であの作品のみ不評だった。
+テンジカイデアノサクヒンノミフヒョーダッタ。
+t e N j i k a i d e a n o s a k U h i N n o m i f u hy o o d a cl t a
+
+RECITATION324_097
+客人をもてなすのは当然です。
+キャクジンヲモテナスノワトーゼンデス。
+ky a k u j i N o m o t e n a s u n o w a t o o z e N d e s U
+
+RECITATION324_098
+旅行客が楽しめるように工夫しましょう。
+リョコーキャクガタノシメルヨーニクフーシマショー。
+ry o k o o ky a k u g a t a n o sh i m e r u y o o n i k U f u u sh i m a sh o o
+
+RECITATION324_099
+こんな冗談のようなニュースはない。
+コンナジョーダンノヨーナニュースワナイ。
+k o N n a j o o d a N n o y o o n a ny u u s u w a n a i
+
+RECITATION324_100
+小さい星をたくさん描いた、水飲みグラスはよくある。
+チーサイホシヲタクサンエガイタ、ミズノミグラスワヨクアル。
+ch i i s a i h o sh i o t a k U s a N e g a i t a pau m i z u n o m i g u r a s u w a y o k u a r u
+
+RECITATION324_101
+柄は、猫の尻尾でもあるように、尖端をぶるぶると震わせながら、動いていく。
+エワ、ネコノシッポデモアルヨーニ、センタンヲブルブルトフルワセナガラ、ウゴイテイク。
+e w a pau n e k o n o sh i cl p o d e m o a r u y o o n i pau s e N t a N o b u r u b u r u t o f u r u w a s e n a g a r a pau u g o i t e i k u
+
+RECITATION324_102
+開店当初プリンが一番売れていた。
+カイテントーショプリンガイチバンウレテイタ。
+k a i t e N t o o sh o p u r i N g a i ch i b a N u r e t e i t a
+
+RECITATION324_103
+ロナルドホープ大尉が大将のマンションへ急行しました。
+ロナルドホープタイイガタイショーノマンションエキューコーシマシタ。
+r o n a r u d o h o o p U t a i i g a t a i sh o o n o m a N sh o N e ky u u k o o sh i m a sh I t a
+
+RECITATION324_104
+日刊センティナル紙の屁プバンです。
+ニッカンセンティナルシノヘプバンデス。
+n i cl k a N s e N t i n a r u sh i n o h e p u b a N d e s U
+
+RECITATION324_105
+この宝石は、ひとつ百万円以上のお値段です。
+コノホーセキワ、ヒトツヒャクマンエンイジョーノオネダンデス。
+k o n o h o o s e k i w a pau h I t o ts U hy a k u m a N e N i j o o n o o n e d a N d e s U
+
+RECITATION324_106
+チョウチョと仲良くなるんだから。
+チョーチョトナカヨクナルンダカラ。
+ch o o ch o t o n a k a y o k u n a r u N d a k a r a
+
+RECITATION324_107
+宇宙では、エントロピーは無際限に増大している。
+ウチューデワ、エントロピーワムサイゲンニゾーダイシテイル。
+u ch u u d e w a pau e N t o r o p i i w a m u s a i g e N n i z o o d a i sh I t e i r u
+
+RECITATION324_108
+川の中流に集落がある。
+カワノチューリューニシューラクガアル。
+k a w a n o ch u u ry u u n i sh u u r a k u g a a r u
+
+RECITATION324_109
+是非お話させて頂きたいと思います。
+ゼヒオハナシサセテイタダキタイトオモイマス。
+z e h i o h a n a sh I s a s e t e i t a d a k I t a i t o o m o i m a s U
+
+RECITATION324_110
+お隣さんが蒟蒻を持っていらっしゃる。
+オトナリサンガコンニャクヲモッテイラッシャル。
+o t o n a r i s a N g a k o N ny a k u o m o cl t e i r a cl sh a r u
+
+RECITATION324_111
+パーティーは楽しむものです。
+パーティーワタノシムモノデス。
+p a a t i i w a t a n o sh i m u m o n o d e s U
+
+RECITATION324_112
+おてつと大きく書かれた番茶茶碗は、これらの人々の前に置かれた。
+オテツトオーキクカカレタバンチャヂャワンワ、コレラノヒトビトノマエニオカレタ。
+o t e ts U t o o o k I k u k a k a r e t a b a N ch a j i y a w a N w a pau k o r e r a n o h I t o b i t o n o m a e n i o k a r e t a
+
+RECITATION324_113
+私のポケットの中には携帯電話が入っています。
+ワタシノポケットノナカニワケータイデンワガハイッテイマス。
+w a t a sh i n o p o k e cl t o n o n a k a n i w a k e e t a i d e N w a g a h a i cl t e i m a s U
+
+RECITATION324_114
+彼は今度は牧場へ行って、沼地で小悪魔の尻尾一つ見つけました。
+カレワコンドワボクジョーエイッテ、ヌマチデコアクマノシッポヒトツミツケマシタ。
+k a r e w a k o N d o w a b o k u j o o e i cl t e pau n u m a ch i d e k o a k u m a n o sh i cl p o h I t o ts u m i ts U k e m a sh I t a
+
+RECITATION324_115
+五行説による占いがあるという情報あり。
+ゴギョーセツニヨルウラナイガアルトイウジョーホーアリ。
+g o gy o o s e ts u n i y o r u u r a n a i g a a r u t o i u j o o h o o a r i
+
+RECITATION324_116
+テンプル君、既に真逆だと言った。
+テンプルクン、スデニマギャクダトイッタ。
+t e N p u r u k u N pau s u d e n i m a gy a k u d a t o i cl t a
+
+RECITATION324_117
+世界中の様々なモニュメントを訪ね歩いた。
+セカイジューノサマザマナモニュメントヲタズネアルイタ。
+s e k a i j u u n o s a m a z a m a n a m o ny u m e N t o o t a z u n e a r u i t a
+
+RECITATION324_118
+アンソニーホプキンスは有名な俳優です。
+アンソニーホプキンスワユーメーナハイユーデス。
+a N s o n i i h o p U k i N s u w a y u u m e e n a h a i y u u d e s U
+
+RECITATION324_119
+彼女は出来るだけぴったりと耳をあてて聴きました。
+カノジョワデキルダケピッタリトミミヲアテテキキマシタ。
+k a n o j o w a d e k i r u d a k e p i cl t a r i t o m i m i o a t e t e k I k i m a sh I t a
+
+RECITATION324_120
+茶一つ参らぬか、まあいいで。
+チャヒトツマイラヌカ、マーイイデ。
+ch a h I t o ts u m a i r a n u k a pau m a a i i d e
+
+RECITATION324_121
+ボヤですんでよかった。
+ボヤデスンデヨカッタ。
+b o y a d e s U N d e y o k a cl t a
+
+RECITATION324_122
+モンタギュゴーシ卿がマンチェスターに来た。
+モンタギュゴーシキョーガマンチェスターニキタ。
+m o N t a gy u g o o sh i ky o o g a m a N ch e s U t a a n i k i t a
+
+RECITATION324_123
+ウィスキーの水割りをガッツリ飲んだ。
+ウィスキーノミズワリヲガッツリノンダ。
+w i s U k i i n o m i z u w a r i o g a cl ts u r i n o N d a
+
+RECITATION324_124
+これやお祭りを若いものに見せるにゃ持ってこいだ。
+コレヤオマツリヲワカイモノニミセルニャモッテコイダ。
+k o r e y a o m a ts u r i o w a k a i m o n o n i m i s e r u ny a m o cl t e k o i d a
+
+RECITATION324_125
+私はイメージカラーをピンクに決めた。
+ワタシワイメージカラーヲピンクニキメタ。
+w a t a sh i w a i m e e j i k a r a a o p i N k u n i k i m e t a
+
+RECITATION324_126
+ムニャムニャ、もう食べれません。
+ムニャムニャ、モータベレマセン。
+m u ny a m u ny a pau m o o t a b e r e m a s e N
+
+RECITATION324_127
+満洲は雨季以外には雨が少ないと言われているが、わたしが満洲にあるあいだは、大戦中のせいか、ずいぶん雨が多かった。
+マンシューワウキイガイニワアメガスクナイトイワレテイルガ、ワタシガマンシューニアルアイダワ、タイセンチューノセイカ、ズイブンアメガオーカッタ。
+m a N sh u u w a u k i i g a i n i w a a m e g a s U k u n a i t o i w a r e t e i r u g a pau w a t a sh i g a m a N sh u u n i a r u a i d a w a pau t a i s e N ch u u n o s e i k a pau z u i b u N a m e g a o o k a cl t a
+
+RECITATION324_128
+均一居酒屋では一番売れても二人で八千円くらいだ。
+キンイツイザカヤデワイチバンウレテモフタリデハッセンエンクライダ。
+k i N i ts u i z a k a y a d e w a i ch i b a N u r e t e m o f U t a r i d e h a cl s e N e N k u r a i d a
+
+RECITATION324_129
+願いをかなえる。
+ネガイヲカナエル。
+n e g a i o k a n a e r u
+
+RECITATION324_130
+最初つらかったけど、花や園芸が好きだったから、失意が癒やされないこともない。
+サイショツラカッタケド、ハナヤエンゲーガスキダッタカラ、シツイガイヤサレナイコトモナイ。
+s a i sh o ts u r a k a cl t a k e d o pau h a n a y a e N g e e g a s U k i d a cl t a k a r a pau sh i ts u i g a i y a s a r e n a i k o t o m o n a i
+
+RECITATION324_131
+ペピス爺さんはもう寝るらしい。
+ペピスジーサンワモーネルラシイ。
+p e p I s u j i i s a N w a m o o n e r u r a sh i i
+
+RECITATION324_132
+直ぐウィルキンソンを呼びに行け。
+スグウィルキンソンヲヨビニイケ。
+s u g u w i r u k i N s o N o y o b i n i i k e
+
+RECITATION324_133
+お昼前ジャスパーさん宅へ再びお邪魔しました。
+オヒルマエジャスパーサンタクエフタタビオジャマシマシタ。
+o h i r u m a e j a s U p a a s a N t a k u e f U t a t a b i o j a m a sh i m a sh I t a
+
+RECITATION324_134
+その竜の百の頭が恐ろしい。
+ソノリューノヒャクノアタマガオソロシイ。
+s o n o ry u u n o hy a k u n o a t a m a g a o s o r o sh i i
+
+RECITATION324_135
+必要なミョウバンの量はプリントに書いてあります。
+ヒツヨーナミョーバンノリョーワプリントニカイテアリマス。
+h I ts u y o o n a my o o b a N n o ry o o w a p u r i N t o n i k a i t e a r i m a s U
+
+RECITATION324_136
+マリーロジェはパヴェサンタンの家を出た。
+マリーロジェワパベサンタンノイエヲデタ。
+m a r i i r o j e w a p a b e s a N t a N n o i e o d e t a
+
+RECITATION324_137
+読み進むにつれ、ますます興味が湧いた。
+ヨミススムニツレ、マスマスキョーミガワイタ。
+y o m i s u s u m u n i ts u r e pau m a s u m a s U ky o o m i g a w a i t a
+
+RECITATION324_138
+笑いかけながらイチニホ近寄った。
+ワライカケナガライチニホチカヨッタ。
+w a r a i k a k e n a g a r a i ch i n i h o ch I k a y o cl t a
+
+RECITATION324_139
+地表を緑化して、温暖化を抑止する能力を強くする。
+チヒョーヲリョクカシテ、オンダンカヲヨクシスルノーリョクヲツヨクスル。
+ch I hy o o o ry o k U k a sh I t e pau o N d a N k a o y o k U sh i s u r u n o o ry o k u o ts u y o k U s u r u
+
+RECITATION324_140
+ハサミでプツッと切った切れ端をペットにあげた。
+ハサミデプツットキッタキレハシヲペットニアゲタ。
+h a s a m i d e p u ts u cl t o k i cl t a k i r e h a sh i o p e cl t o n i a g e t a
+
+RECITATION324_141
+ホームランを打つ。
+ホームランヲウツ。
+h o o m u r a N o u ts u
+
+RECITATION324_142
+プレゼントをギャロウェイさんに渡してください。
+プレゼントヲギャロウェイサンニワタシテクダサイ。
+p u r e z e N t o o gy a r o w e i s a N n i w a t a sh I t e k u d a s a i
+
+RECITATION324_143
+ケプラーの法則について直接私に聞いてきた。
+ケプラーノホーソクニツイテチョクセツワタシニキイテキタ。
+k e p u r a a n o h o o s o k u n i ts u i t e ch o k U s e ts u w a t a sh i n i k i i t e k i t a
+
+RECITATION324_144
+ウェンディーズはハンバーガー屋さんです。
+ウェンディーズワハンバーガーヤサンデス。
+w e N d i i z u w a h a N b a a g a a y a s a N d e s U
+
+RECITATION324_145
+しかし氷河はアルプスだけにあるものではない。
+シカシヒョーガワアルプスダケニアルモノデワナイ。
+sh I k a sh I hy o o g a w a a r u p U s u d a k e n i a r u m o n o d e w a n a i
+
+RECITATION324_146
+この先百年も抹茶は衰退しない。
+コノサキヒャクネンモマッチャワスイタイシナイ。
+k o n o s a k I hy a k u n e N m o m a cl ch a w a s u i t a i sh i n a i
+
+RECITATION324_147
+自分を評価するのは会社であって、行き過ぎた自己表現は失脚につながる。
+ジブンヲヒョーカスルノワカイシャデアッテ、イキスギタジコヒョーゲンワシッキャクニツナガル。
+j i b u N o hy o o k a s u r u n o w a k a i sh a d e a cl t e pau i k I s u g i t a j i k o hy o o g e N w a sh i cl ky a k u n i ts u n a g a r u
+
+RECITATION324_148
+夜に吹く風のヒュウヒュウという音が私を不安にさせる。
+ヨルニフクカゼノヒューヒュートイウオトガワタシヲフアンニサセル。
+y o r u n i f u k U k a z e n o hy u u hy u u t o i u o t o g a w a t a sh i o f u a N n i s a s e r u
+
+RECITATION324_149
+可愛い華奢な女の子。
+カワイイキャシャナオンナノコ。
+k a w a i i ky a sh a n a o N n a n o k o
+
+RECITATION324_150
+水中の金魚をすくうためのポイ。
+スイチューノキンギョヲスクウタメノポイ。
+s u i ch u u n o k i N gy o o s U k u u t a m e n o p o i
+
+RECITATION324_151
+グレンエルギンはウィスキーのジョウリュウジョです。
+グレンエルギンワウィスキーノジョーリュージョデス。
+g u r e N e r u g i N w a w i s U k i i n o j o o ry u u j o d e s U
+
+RECITATION324_152
+一寸法師が、ヒョコヒョコと彼の方へ近づいた。
+イッスンボーシガ、ヒョコヒョコトカレノホーエチカズイタ。
+i cl s u N b o o sh i g a pau hy o k o hy o k o t o k a r e n o h o o e ch I k a z u i t a
+
+RECITATION324_153
+連中はリビングでぺちゃくちゃ喋って、警戒していない。
+レンチューワリビングデペチャクチャシャベッテ、ケーカイシテイナイ。
+r e N ch u u w a r i b i N g u d e p e ch a k U ch a sh a b e cl t e pau k e e k a i sh I t e i n a i
+
+RECITATION324_154
+平一郎はシャツ一枚になって絹物の布団の中へ潜りこんだ。
+ヘーイチローワシャツイチマイニナッテキヌモノノフトンノナカエモグリコンダ。
+h e e i ch i r o o w a sh a ts u i ch i m a i n i n a cl t e k i n u m o n o n o f U t o N n o n a k a e m o g u r i k o N d a
+
+RECITATION324_155
+下京区に引っ越す。
+シモギョークニヒッコス。
+sh i m o gy o o k u n i h i cl k o s u
+
+RECITATION324_156
+彼の言葉に一種不思議な感覚を覚えた。
+カレノコトバニイッシュフシギナカンカクヲオボエタ。
+k a r e n o k o t o b a n i i cl sh U f u sh i g i n a k a N k a k u o o b o e t a
+
+RECITATION324_157
+この事業所には百人以上の人が勤めています。
+コノジギョーショニワヒャクニンイジョーノヒトガツトメテイマス。
+k o n o j i gy o o sh o n i w a hy a k u n i N i j o o n o h I t o g a ts U t o m e t e i m a s U
+
+RECITATION324_158
+わたしの家ばかりでなく、近所の住居といわず、商店といわず、バラックの家々ではみな草花を植えている。
+ワタシノイエバカリデナク、キンジョノジューキョトイワズ、ショーテントイワズ、バラックノイエイエデワミナクサバナヲウエテイル。
+w a t a sh i n o i e b a k a r i d e n a k u pau k i N j o n o j u u ky o t o i w a z u pau sh o o t e N t o i w a z u pau b a r a cl k u n o i e i e d e w a m i n a k U s a b a n a o u e t e i r u
+
+RECITATION324_159
+どうせ私は馬の世話をせにゃならんから、外へ行こう。
+ドーセワタシワウマノセワヲセニャナランカラ、ソトエイコー。
+d o o s e w a t a sh i w a u m a n o s e w a o s e ny a n a r a N k a r a pau s o t o e i k o o
+
+RECITATION324_160
+ヤンセチャンというお笑い芸人。
+ヤンセチャントイウオワライゲーニン。
+y a N s e ch a N t o i u o w a r a i g e e n i N
+
+RECITATION324_161
+男が妙な顔をして、一瞬残忍になった。
+オトコガミョーナカオヲシテ、イッシュンザンニンニナッタ。
+o t o k o g a my o o n a k a o o sh I t e pau i cl sh u N z a N n i N n i n a cl t a
+
+RECITATION324_162
+普及活動に幻滅した。
+フキューカツドーニゲンメツシタ。
+f U ky u u k a ts u d o o n i g e N m e ts u sh I t a
+
+RECITATION324_163
+雨がぽつぽつ降りだした。
+アメガポツポツフリダシタ。
+a m e g a p o ts U p o ts U f u r i d a sh I t a
+
+RECITATION324_164
+ペリウィンクルやプランティンはブルーアイです。
+ペリウィンクルヤプランティンワブルーアイデス。
+p e r i w i N k u r u y a p u r a N t i N w a b u r u u a i d e s U
+
+RECITATION324_165
+姫や侍女たちが、キンポウゲやタンポポの花を持って、彼の方へ駆け寄っていった。
+ヒメヤジジョタチガ、キンポウゲヤタンポポノハナヲモッテ、カレノホーエカケヨッテイッタ。
+h i m e y a j i j o t a ch i g a pau k i N p o u g e y a t a N p o p o n o h a n a o m o cl t e pau k a r e n o h o o e k a k e y o cl t e i cl t a
+
+RECITATION324_166
+ミンナの協力のおかげで帰郷できた。
+ミンナノキョーリョクノオカゲデキキョーデキタ。
+m i N n a n o ky o o ry o k u n o o k a g e d e k I ky o o d e k i t a
+
+RECITATION324_167
+ウォルターとウォードが入室すると、ノラが真っ赤になった。
+ウォルタートウォードガニューシツスルト、ノラガマッカニナッタ。
+w o r u t a a t o w o o d o g a ny u u sh I ts u s u r u t o pau n o r a g a m a cl k a n i n a cl t a
+
+RECITATION324_168
+今の持ちフダではあがれずに終わる。
+イマノモチフダデワアガレズニオワル。
+i m a n o m o ch i f u d a d e w a a g a r e z u n i o w a r u
+
+RECITATION324_169
+勉強中は話しかけないで。
+ベンキョーチューワハナシカケナイデ。
+b e N ky o o ch u u w a h a n a sh I k a k e n a i d e
+
+RECITATION324_170
+レパードの花壇が枯れ果てた。
+レパードノカダンガカレハテタ。
+r e p a a d o n o k a d a N g a k a r e h a t e t a
+
+RECITATION324_171
+蒸留酒にミョウバンを加える。
+ジョーリューシュニミョーバンヲクワエル。
+j o o ry u u sh u n i my o o b a N o k u w a e r u
+
+RECITATION324_172
+取っつきにくい女中が三人いる。
+トッツキニクイジョチューガサンニンイル。
+t o cl ts U k i n i k u i j o ch u u g a s a N n i N i r u
+
+RECITATION324_173
+レインボーブリッジは東京の名所。
+レインボーブリッジワトーキョーノメーショ。
+r e i N b o o b u r i cl j i w a t o o ky o o n o m e e sh o
+
+RECITATION324_174
+ヒキョーモノは悪党です。
+ヒキョーモノワアクトーデス。
+h I k i y o o m o n o w a a k U t o o d e s U
+
+RECITATION324_175
+突然海へ飛び込んだ。
+トツゼンウミエトビコンダ。
+t o ts u z e N u m i e t o b i k o N d a
+
+RECITATION324_176
+仕事はどっさりとあります。
+シゴトワドッサリトアリマス。
+sh i g o t o w a d o cl s a r i t o a r i m a s U
+
+RECITATION324_177
+葉巻パイプはありましたか。
+ハマキパイプワアリマシタカ。
+h a m a k I p a i p u w a a r i m a sh I t a k a
+
+RECITATION324_178
+八百屋に行って百円で大根を買った。
+ヤオヤニイッテヒャクエンデダイコンヲカッタ。
+y a o y a n i i cl t e hy a k u e N d e d a i k o N o k a cl t a
+
+RECITATION324_179
+般若とは鬼女の能面の事です。
+ハンニャトワキジョノノーメンノコトデス。
+h a N ny a t o w a k i j o n o n o o m e N n o k o t o d e s U
+
+RECITATION324_180
+ニホンへ行くには船か飛行機が必要です。
+ニホンエイクニワフネカヒコーキガヒツヨーデス。
+n i h o N e i k u n i w a f u n e k a h I k o o k i g a h I ts u y o o d e s U
+
+RECITATION324_181
+しかしパーで回るのも難しい。
+シカシパーデマワルノモムズカシイ。
+sh I k a sh I p a a d e m a w a r u n o m o m u z u k a sh i i
+
+RECITATION324_182
+のぼせないように入浴するにはお湯の量と温度が大事。
+ノボセナイヨーニニューヨクスルニワオユノリョートオンドガダイジ。
+n o b o s e n a i y o o n i ny u u y o k U s u r u n i w a o y u n o ry o o t o o N d o g a d a i j i
+
+RECITATION324_183
+キタロウクンは冗談半分で盗みに入って怪我をした。
+キタロークンワジョーダンハンブンデヌスミニハイッテケガヲシタ。
+k I t a r o o k u N w a j o o d a N h a N b u N d e n u s u m i n i h a i cl t e k e g a o sh I t a
+
+RECITATION324_184
+バーニ医師がピシッと答えた。
+バーニイシガピシットコタエタ。
+b a a n i i sh i g a p I sh i cl t o k o t a e t a
+
+RECITATION324_185
+男の妙な動きが怪しい。
+オトコノミョーナウゴキガアヤシイ。
+o t o k o n o my o o n a u g o k i g a a y a sh i i
+
+RECITATION324_186
+私の病気は先天性なのです。
+ワタシノビョーキワセンテンセーナノデス。
+w a t a sh i n o by o o k i w a s e N t e N s e e n a n o d e s U
+
+RECITATION324_187
+三国志の関羽という将軍はすごく有名です。
+サンゴクシノカンウトイウショーグンワスゴクユーメーデス。
+s a N g o k u sh i n o k a N u t o i u sh o o g u N w a s u g o k u y u u m e e d e s U
+
+RECITATION324_188
+過酷な業務に耐える。
+カコクナギョームニタエル。
+k a k o k u n a gy o o m u n i t a e r u
+
+RECITATION324_189
+町の女房らしい二人連れが、日傘を持って入ってきた。
+マチノニョーボーラシイフタリズレガ、ヒガサヲモッテハイッテキタ。
+m a ch i n o ny o o b o o r a sh i i f U t a r i z u r e g a pau h i g a s a o m o cl t e h a i cl t e k i t a
+
+RECITATION324_190
+名をツァウォツキイといった。
+ナヲツアウォツキイトイッタ。
+n a o ts u a w o ts u k i i t o i cl t a
+
+RECITATION324_191
+飲み会の参加を拒否した。
+ノミカイノサンカヲキョヒシタ。
+n o m i k a i n o s a N k a o ky o h i sh I t a
+
+RECITATION324_192
+夫人が仰天したのも無理はない。
+フジンガギョーテンシタノモムリワナイ。
+f u j i N g a gy o o t e N sh I t a n o m o m u r i w a n a i
+
+RECITATION324_193
+セファドールはめまいを抑える薬です。
+セファドールワメマイヲオサエルクスリデス。
+s e f a d o o r u w a m e m a i o o s a e r u k U s u r i d e s U
+
+RECITATION324_194
+ミンの一訓詁学者は、宋代典籍の一つにあげてある茶せんの形状を思い起こすに苦しんでいる。
+ミンノイチクンコガクシャワ、ソーダイテンセキノヒトツニアゲテアルチャセンノケージョーヲオモイオコスニクルシンデイル。
+m i N n o i ch I k u N k o g a k U sh a w a pau s o o d a i t e N s e k i n o h I t o ts u n i a g e t e a r u ch a s e N n o k e e j o o o o m o i o k o s u n i k u r u sh i N d e i r u
+
+RECITATION324_195
+深海魚は見た目は悪いがおいしいことが多い。
+シンカイギョワミタメワワルイガオイシイコトガオーイ。
+sh i N k a i gy o w a m i t a m e w a w a r u i g a o i sh i i k o t o g a o o i
+
+RECITATION324_196
+ニューヨークでイヴニングポストの記事に注目した。
+ニューヨークデイブニングポストノキジニチューモクシタ。
+ny u u y o o k u d e i b u n i N g u p o s U t o n o k i j i n i ch u u m o k u sh I t a
+
+RECITATION324_197
+確かに牛乳とコーンフレークの相性は抜群だ。
+タシカニギューニュートコーンフレークノアイショーワバツグンダ。
+t a sh I k a n i gy u u ny u u t o k o o N f u r e e k u n o a i sh o o w a b a ts u g u N d a
+
+RECITATION324_198
+その一は、明治三十七年の九月八日か九日の夜とおぼえている。
+ソノイチワ、メージサンジューナナネンノクガツヨーカカココノカノヨルトオボエテイル。
+s o n o i ch i w a pau m e e j i s a N j u u n a n a n e N n o k u g a ts u y o o k a k a k o k o n o k a n o y o r u t o o b o e t e i r u
+
+RECITATION324_199
+マルメゾンの店主はジェシーとは仲良しだ。
+マルメゾンノテンシュワジェシートワナカヨシダ。
+m a r u m e z o N n o t e N sh u w a j e sh i i t o w a n a k a y o sh i d a
+
+RECITATION324_200
+釣竿を肩にかけた処士あり。
+ツリザオヲカタニカケタショシアリ。
+ts u r i z a o o k a t a n i k a k e t a sh o sh i a r i
+
+RECITATION324_201
+最新鋭機に乗り込む。
+サイシンエーキニノリコム。
+s a i sh i N e e k i n i n o r i k o m u
+
+RECITATION324_202
+誰かが後ろへ来て、変な声で叫んだのでぞっとした。
+ダレカガウシロエキテ、ヘンナコエデサケンダノデゾットシタ。
+d a r e k a g a u sh i r o e k i t e pau h e N n a k o e d e s a k e N d a n o d e z o cl t o sh I t a
+
+RECITATION324_203
+おおでらの石段の前に立ち止まって、その出て来るのを待ちあわせた。
+オーデラノイシダンノマエニタチドマッテ、ソノデテクルノヲマチアワセタ。
+o o d e r a n o i sh i d a N n o m a e n i t a ch i d o m a cl t e pau s o n o d e t e k u r u n o o m a ch i a w a s e t a
+
+RECITATION324_204
+未解決の懸案を持って重役と対峙する。
+ミカイケツノケンアンヲモッテジューヤクトタイジスル。
+m i k a i k e ts u n o k e N a N o m o cl t e j u u y a k U t o t a i j i s u r u
+
+RECITATION324_205
+ウスヅキの光が庭を照らす。
+ウスズキノヒカリガニワヲテラス。
+u s u z u k i n o h I k a r i g a n i w a o t e r a s u
+
+RECITATION324_206
+犯人がどっちの部屋へ入ったかわからない。
+ハンニンガドッチノヘヤエハイッタカワカラナイ。
+h a N n i N g a d o cl ch i n o h e y a e h a i cl t a k a w a k a r a n a i
+
+RECITATION324_207
+渓谷から出た氷河が一本に合流する。
+ケーコクカラデタヒョーガガイッポンニゴーリュースル。
+k e e k o k U k a r a d e t a hy o o g a g a i cl p o N n i g o o ry u u s u r u
+
+RECITATION324_208
+ディスカッションを進める。
+ディスカッションヲススメル。
+d i s U k a cl sh o N o s u s u m e r u
+
+RECITATION324_209
+九頭竜明神を祭るために灯篭をながす。
+クズリューミョージンヲマツルタメニトーローヲナガス。
+k u z u ry u u my o o j i N o m a ts u r u t a m e n i t o o r o o o n a g a s u
+
+RECITATION324_210
+今回の資料作りは深い思慮を必要としたが、先日やっと終了した。
+コンカイノシリョーズクリワフカイシリョヲヒツヨートシタガ、センジツヤットシューリョーシタ。
+k o N k a i n o sh i ry o o z u k u r i w a f U k a i sh i ry o o h I ts u y o o t o sh I t a g a pau s e N j i ts u y a cl t o sh u u ry o o sh I t a
+
+RECITATION324_211
+骨子をしっかりと組み立てる。
+コッシヲシッカリトクミタテル。
+k o cl sh i o sh i cl k a r i t o k u m i t a t e r u
+
+RECITATION324_212
+気球にのって空を楽しむ。
+キキューニノッテソラヲタノシム。
+k I ky u u n i n o cl t e s o r a o t a n o sh i m u
+
+RECITATION324_213
+批評ばかりでなく対案も出すべき。
+ヒヒョーバカリデナクタイアンモダスベキ。
+h i hy o o b a k a r i d e n a k U t a i a N m o d a s u b e k i
+
+RECITATION324_214
+かれらは幕のあいだに木戸の外を散歩しているのである。
+カレラワマクノアイダニキドノソトヲサンポシテイルノデアル。
+k a r e r a w a m a k u n o a i d a n i k i d o n o s o t o o s a N p o sh I t e i r u n o d e a r u
+
+RECITATION324_215
+過去の数々の奇病が治るようになりつつある。
+カコノカズカズノキビョーガナオルヨーニナリツツアル。
+k a k o n o k a z u k a z u n o k i by o o g a n a o r u y o o n i n a r i ts u ts u a r u
+
+RECITATION324_216
+購入者はポンプの修理が必要なことに気がついた。
+コーニューシャワポンプノシューリガヒツヨーナコトニキガツイタ。
+k o o ny u u sh a w a p o N p u n o sh u u r i g a h I ts u y o o n a k o t o n i k i g a ts u i t a
+
+RECITATION324_217
+彼自身は、レジ業務につきたいと思っている。
+カレジシンワ、レジギョームニツキタイトオモッテイル。
+k a r e j i sh i N w a pau r e j i gy o o m u n i ts U k i t a i t o o m o cl t e i r u
+
+RECITATION324_218
+地毛は金色なんです。
+ジゲワキンイロナンデス。
+j i g e w a k i N i r o n a N d e s U
+
+RECITATION324_219
+鉛筆は折れやすくて不便です。
+エンピツワオレヤスクテフベンデス。
+e N p I ts u w a o r e y a s U k u t e f u b e N d e s U
+
+RECITATION324_220
+ヒポクラテスは医学の父と呼ばれます。
+ヒポクラテスワイガクノチチトヨバレマス。
+h I p o k u r a t e s u w a i g a k u n o ch i ch I t o y o b a r e m a s U
+
+RECITATION324_221
+ところが商人は、国ざかいのすぐ近くへ住まって、やはり前と同じようにやっています。
+トコロガショーニンワ、クニザカイノスグチカクエスマッテ、ヤハリマエトオナジヨーニヤッテイマス。
+t o k o r o g a sh o o n i N w a pau k u n i z a k a i n o s u g u ch i k a k u e s u m a cl t e pau y a h a r i m a e t o o n a j i y o o n i y a cl t e i m a s U
+
+RECITATION324_222
+今まで明るかった二階の窓は、急にまっくらになってしまいました。
+イママデアカルカッタニカイノマドワ、キューニマックラニナッテシマイマシタ。
+i m a m a d e a k a r u k a cl t a n i k a i n o m a d o w a pau ky u u n i m a cl k u r a n i n a cl t e sh i m a i m a sh I t a
+
+RECITATION324_223
+アスファルトに囲まれた中にケヤキの木が一本。
+アスファルトニカコマレタナカニケヤキノキガイッポン。
+a s U f a r u t o n i k a k o m a r e t a n a k a n i k e y a k i n o k i g a i cl p o N
+
+RECITATION324_224
+名札を用意する。
+ナフダヲヨーイスル。
+n a f u d a o y o o i s u r u
+
+RECITATION324_225
+マッチョな男性はモテるそう。
+マッチョナダンセーワモテルソー。
+m a cl ch o n a d a N s e e w a m o t e r u s o o
+
+RECITATION324_226
+社務所の人の話に嘘はなかった。
+シャムショノヒトノハナシニウソワナカッタ。
+sh a m u sh o n o h I t o n o h a n a sh i n i u s o w a n a k a cl t a
+
+RECITATION324_227
+行楽シーズンの京都は人でいっぱい。
+コーラクシーズンノキョートワヒトデイッパイ。
+k o o r a k U sh i i z u N n o ky o o t o w a h I t o d e i cl p a i
+
+RECITATION324_228
+どこからかパチパチと音が聞こえる。
+ドコカラカパチパチトオトガキコエル。
+d o k o k a r a k a p a ch i p a ch i t o o t o g a k I k o e r u
+
+RECITATION324_229
+プロ野球はどのチームが優勝するだろう？
+プロヤキューワドノチームガユーショースルダロー？
+p u r o y a ky u u w a d o n o ch i i m u g a y u u sh o o s u r u d a r o o
+
+RECITATION324_230
+しかし、これではまるで私が誘拐しましたと自首して出るようなもので、そんな馬鹿なことをするやつはあるまい。
+シカシ、コレデワマルデワタシガユーカイシマシタトジシュシテデルヨーナモノデ、ソンナバカナコトヲスルヤツワアルマイ。
+sh I k a sh i pau k o r e d e w a m a r u d e w a t a sh i g a y u u k a i sh i m a sh I t a t o j i sh u sh I t e d e r u y o o n a m o n o d e pau s o N n a b a k a n a k o t o o s u r u y a ts u w a a r u m a i
+
+RECITATION324_231
+切望しつつ、ヌシを待つ。
+セツボーシツツ、ヌシヲマツ。
+s e ts u b o o sh I ts u ts u pau n u sh i o m a ts u
+
+RECITATION324_232
+しばらくしてパチパチという音も止んだ。
+シバラクシテパチパチトイウオトモヤンダ。
+sh i b a r a k u sh I t e p a ch i p a ch i t o i u o t o m o y a N d a
+
+RECITATION324_233
+身分をわきまえず放った狂言。
+ミブンヲワキマエズハナッタキョーゲン。
+m i b u N o w a k i m a e z u h a n a cl t a ky o o g e N
+
+RECITATION324_234
+天を翔ける竜の姿は神秘的だ。
+テンヲカケルリューノスガタワシンピテキダ。
+t e N o k a k e r u ry u u n o s u g a t a w a sh i N p i t e k i d a
+
+RECITATION324_235
+私の精神と一脈アイツウジルモノがあると思いました。
+ワタシノセーシントイチミャクアイツウジルモノガアルトオモイマシタ。
+w a t a sh i n o s e e sh i N t o i ch i my a k u a i ts u u j i r u m o n o g a a r u t o o m o i m a sh I t a
+
+RECITATION324_236
+ミンナも球場に行きましょう。
+ミンナモキュージョーニイキマショー。
+m i N n a m o ky u u j o o n i i k i m a sh o o
+
+RECITATION324_237
+コペルニクスはポーランドの天文学者です。
+コペルニクスワポーランドノテンモンガクシャデス。
+k o p e r u n i k U s u w a p o o r a N d o n o t e N m o N g a k U sh a d e s U
+
+RECITATION324_238
+海沿いの旅館は眺めがいい。
+ウミゾイノリョカンワナガメガイイ。
+u m i z o i n o ry o k a N w a n a g a m e g a i i
+
+RECITATION324_239
+集中すると周りが見えない。
+シューチュースルトマワリガミエナイ。
+sh u u ch u u s u r u t o m a w a r i g a m i e n a i
+
+RECITATION324_240
+春木座はコンニチの本郷座である。
+ハルキザワコンニチノホンゴーザデアル。
+h a r u k i z a w a k o N n i ch i n o h o N g o o z a d e a r u
+
+RECITATION324_241
+私の手を引っ張るようにして、手のひらへくれました。
+ワタシノテヲヒッパルヨーニシテ、テノヒラエクレマシタ。
+w a t a sh i n o t e o h i cl p a r u y o o n i sh I t e pau t e n o h i r a e k u r e m a sh I t a
+
+RECITATION324_242
+北海の荒波は、その氷の絶壁の根を噛んで、激しく飛沫を散らしている。
+ホッカイノアラナミワ、ソノコーリノゼッペキノネヲカンデ、ハゲシクシブキヲチラシテイル。
+h o cl k a i n o a r a n a m i w a pau s o n o k o o r i n o z e cl p e k i n o n e o k a N d e pau h a g e sh i k U sh i b u k i o ch i r a sh I t e i r u
+
+RECITATION324_243
+戦意を喪失させるのが勝利への近道。
+センイヲソーシツサセルノガショーリエノチカミチ。
+s e N i o s o o sh I ts u s a s e r u n o g a sh o o r i e n o ch I k a m i ch i
+
+RECITATION324_244
+がちょうを飼う。
+ガチョーヲカウ。
+g a ch o o o k a u
+
+RECITATION324_245
+ふぁふぁと笑いながら楽しく手拍子。
+ファファトワライナガラタノシクテビョーシ。
+f a f a t o w a r a i n a g a r a t a n o sh i k U t e by o o sh i
+
+RECITATION324_246
+従軍記者は大尉相当の待遇を受ける。
+ジューグンキシャワタイイソートーノタイグーヲウケル。
+j u u g u N k I sh a w a t a i i s o o t o o n o t a i g u u o u k e r u
+
+RECITATION324_247
+茶碗にかかるほど、シャツの袖のふくらかなので、掻き抱くテイに茶碗を持った。
+チャワンニカカルホド、シャツノソデノフクラカナノデ、カキイダクテイニチャワンヲモッタ。
+ch a w a N n i k a k a r u h o d o pau sh a ts u n o s o d e n o f U k u r a k a n a n o d e pau k a k i i d a k U t e i n i ch a w a N o m o cl t a
+
+RECITATION324_248
+色々隠して今日まで犯人と共にいる。
+イロイロカクシテキョーマデハンニントトモニイル。
+i r o i r o k a k U sh i t e ky o o m a d e h a N n i N t o t o m o n i i r u
+
+RECITATION324_249
+浦子は寝ながら息を引いた。
+ウラコワネナガライキヲヒイタ。
+u r a k o w a n e n a g a r a i k i o h i i t a
+
+RECITATION324_250
+兄が邪険にされた。
+アニガジャケンニサレタ。
+a n i g a j a k e N n i s a r e t a
+
+RECITATION324_251
+彼は不服そうに呟いた。
+カレワフフクソーニツブヤイタ。
+k a r e w a f u f U k u s o o n i ts u b u y a i t a
+
+RECITATION324_252
+摸造品ばかりでなく、本物のドイツ将校や兵卒のヘルメットを売っているのもある。
+モゾーヒンバカリデナク、ホンモノノドイツショーコーヤヘーソツノヘルメットヲウッテイルノモアル。
+m o z o o h i N b a k a r i d e n a k u pau h o N m o n o n o d o i ts U sh o o k o o y a h e e s o ts u n o h e r u m e cl t o o u cl t e i r u n o m o a r u
+
+RECITATION324_253
+彼女と一緒にいると落ち着きます。
+カノジョトイッショニイルトオチツキマス。
+k a n o j o t o i cl sh o n i i r u t o o ch I ts u k i m a s U
+
+RECITATION324_254
+困ってる人に向けて寄付をしました。
+コマッテルヒトニムケテキフヲシマシタ。
+k o m a cl t e r u h I t o n i m u k e t e k i f u o sh i m a sh I t a
+
+RECITATION324_255
+落ち込んでいるのか、うつむいてじっとしている。
+オチコンデイルノカ、ウツムイテジットシテイル。
+o ch I k o N d e i r u n o k a pau u ts u m u i t e j i cl t o sh I t e i r u
+
+RECITATION324_256
+改良が進むとパンはどんどんおいしくなる。
+カイリョーガススムトパンワドンドンオイシクナル。
+k a i ry o o g a s u s u m u t o p a N w a d o N d o N o i sh i k u n a r u
+
+RECITATION324_257
+こんなことを言いながら、気の短いおじいさんは下駄を突っかけて、そそくさと出て行ってしまった。
+コンナコトヲイイナガラ、キノミジカイオジーサンワゲタヲツッカケテ、ソソクサトデテイッテシマッタ。
+k o N n a k o t o o i i n a g a r a pau k i n o m i j i k a i o j i i s a N w a g e t a o ts u cl k a k e t e pau s o s o k U s a t o d e t e i cl t e sh i m a cl t a
+
+RECITATION324_258
+彼女と初デートの今日は夢うつつ。
+カノジョトハツデートノキョーワユメウツツ。
+k a n o j o t o h a ts u d e e t o n o ky o o w a y u m e u ts U ts u
+
+RECITATION324_259
+おなじ東京の名をよぶにも、今後はおそらく旧東京と新東京とに区別されるであろう。
+オナジトーキョーノナヲヨブニモ、コンゴワオソラクキュートーキョートシントーキョートニクベツサレルデアロー。
+o n a j i t o o ky o o n o n a o y o b u n i m o pau k o N g o w a o s o r a k U ky u u t o o ky o o t o sh i N t o o ky o o t o n i k u b e ts U s a r e r u d e a r o o
+
+RECITATION324_260
+腰振りを二分間続ける。
+コシフリヲニフンカンツズケル。
+k o sh i f u r i o n i f u N k a N ts u z u k e r u
+
+RECITATION324_261
+臆病者が逃げ出した。
+オクビョーモノガニゲダシタ。
+o k u by o o m o n o g a n i g e d a sh I t a
+
+RECITATION324_262
+絵葉書と一緒に銀色のルアーをマッシュに送った。
+エハガキトイッショニギンイロノルアーヲマッシュニオクッタ。
+e h a g a k I t o i cl sh o n i g i N i r o n o r u a a o m a cl sh u n i o k u cl t a
+
+RECITATION324_263
+オムライスにはケチャップが一番。
+オムライスニワケチャップガイチバン。
+o m u r a i s u n i w a k e ch a cl p u g a i ch i b a N
+
+RECITATION324_264
+ストレスは適度に発散しましょう。
+ストレスワテキドニハッサンシマショー。
+s U t o r e s u w a t e k i d o n i h a cl s a N sh i m a sh o o
+
+RECITATION324_265
+この人よりぞ始まりける。
+コノヒトヨリゾハジマリケル。
+k o n o h I t o y o r i z o h a j i m a r i k e r u
+
+RECITATION324_266
+中学生の時、避暑旅行中に体調を崩した。
+チューガクセーノトキ、ヒショリョコーチューニタイチョーヲクズシタ。
+ch u u g a k U s e e n o t o k i pau h I sh o ry o k o o ch u u n i t a i ch o o o k u z u sh I t a
+
+RECITATION324_267
+軍医は病院の門に入るのである。
+グンイワビョーインノモンニハイルノデアル。
+g u N i w a by o o i N n o m o N n i h a i r u n o d e a r u
+
+RECITATION324_268
+一日中明るい白夜は、一切太陽が沈まないことで起こります。
+イチニチジューアカルイビャクヤワ、イッサイタイヨーガシズマナイコトデオコリマス。
+i ch i n i ch i j u u a k a r u i by a k u y a w a pau i cl s a i t a i y o o g a sh i z u m a n a i k o t o d e o k o r i m a s U
+
+RECITATION324_269
+もう、あなたにばかりも精一杯、誰にも見せられます体ではないんです。
+モー、アナタニバカリモセーイッパイ、ダレニモミセラレマスカラダデワナインデス。
+m o o pau a n a t a n i b a k a r i m o s e e i cl p a i pau d a r e n i m o m i s e r a r e m a s U k a r a d a d e w a n a i N d e s U
+
+RECITATION324_270
+みんな揃って海に飛び込んだ。
+ミンナソロッテウミニトビコンダ。
+m i N n a s o r o cl t e u m i n i t o b i k o N d a
+
+RECITATION324_271
+なんだそりゃ、到底無理なお願いだ。
+ナンダソリャ、トーテームリナオネガイダ。
+n a N d a s o ry a pau t o o t e e m u r i n a o n e g a i d a
+
+RECITATION324_272
+腸チフスは怖い病気。
+チョーチフスワコワイビョーキ。
+ch o o ch i f U s u w a k o w a i by o o k i
+
+RECITATION324_273
+排球はバレーボールの事です。
+ハイキューワバレーボールノコトデス。
+h a i ky u u w a b a r e e b o o r u n o k o t o d e s U
+
+RECITATION324_274
+マッチを買いに入ったのかな。
+マッチヲカイニハイッタノカナ。
+m a cl ch i o k a i n i h a i cl t a n o k a n a
+
+RECITATION324_275
+盆栽は風情がある。
+ボンサイワフゼーガアル。
+b o N s a i w a f u z e e g a a r u
+
+RECITATION324_276
+やがて陪審員は合議をするために法廷を出て行った。
+ヤガテバイシンインワゴーギヲスルタメニホーテーヲデテイッタ。
+y a g a t e b a i sh i N i N w a g o o g i o s u r u t a m e n i h o o t e e o d e t e i cl t a
+
+RECITATION324_277
+芸術の求める永遠性に疑問を感じる。
+ゲージュツノモトメルエーエンセーニギモンヲカンジル。
+g e e j u ts u n o m o t o m e r u e e e N s e e n i g i m o N o k a N j i r u
+
+RECITATION324_278
+聞きつけて、クダンの嫗、ぶるぶるとかぶりをふった。
+キキツケテ、クダンノオーナ、ブルブルトカブリヲフッタ。
+k I k i ts U k e t e pau k u d a N n o o o n a pau b u r u b u r u t o k a b u r i o f u cl t a
+
+RECITATION324_279
+キェルツェを通ってドビェに、ザリピェからミェイに行く。
+キェルツェヲトーッテドビェニ、ザリピェカラミェイニイク。
+ky e r u ts e o t o o cl t e d o by e n i pau z a r i py e k a r a my e i n i i k u
+
+RECITATION324_280
+マリアーンスケーラーズニェを訪れる。
+マリアーンスケーラーズニェヲオトズレル。
+m a r i a a N s u k e e r a a z u ny e o o t o z u r e r u
+
+RECITATION324_281
+乳牛を見ながら、レテュの入ったピッツァを食べる。
+ニューギューヲミナガラ、レテュノハイッタピッツァヲタベル。
+ny u u gy u u o m i n a g a r a pau r e t e y u n o h a i cl t a p i cl ts a o t a b e r u
+
+RECITATION324_282
+ウドゥの奏者を施療した。
+ウドゥノソーシャヲセリョーシタ。
+u d o u n o s o o sh a o s e ry o o sh I t a
+
+RECITATION324_283
+インスティテュートで、リデュースの話と併せて、ルデュックの話も聞いた。
+インスティチュートデ、リデュースノハナシトアワセテ、ルデュックノハナシモキイタ。
+i N s U t i ch u u t o d e pau r i dy u u s u n o h a n a sh i t o a w a s e t e pau r u dy u cl k u n o h a n a sh i m o k i i t a
+
+RECITATION324_284
+ギェナーを見てイェーイと叫ぶ。
+ギェナーヲミテイェーイトサケブ。
+gy e n a a o m i t e y e e i t o s a k e b u
+
+RECITATION324_285
+スィーディーを聞きながら、でゃーこんを食べる。
+スィーディーヲキキナガラ、デャーコンヲタベル。
+s i i d i i o k I k i n a g a r a pau dy a a k o N o t a b e r u
+
+RECITATION324_286
+テョさんはズィーブラを見た。
+テョサンワズィーブラヲミタ。
+ty o s a N w a z i i b u r a o m i t a
+
+RECITATION324_287
+レヴォリューション。レギュレーション。エデュケーション。
+レボリューション。レギュレーション。エデュケーション。
+r e b o ry u u sh o N pau r e gy u r e e sh o N pau e dy u k e e sh o N
+
+RECITATION324_288
+ブレンドデョート。ラーテャン。
+ブレンドデョート。ラーテャン。
+b u r e N d o dy o o t o pau r a a ty a N
+
+RECITATION324_289
+あっあの。いっいえ。えっえぇ。おっおい。んーとね。
+アッアノ。イッイエ。エッエェ。オッオイ。ンートネ。
+a cl a n o pau i cl i e pau e cl e e pau o cl o i pau N N t o n e
+
+RECITATION324_290
+いぶかしげに見上げた雨雲から、コハクイロのドラゴンがギュンと現れた。
+イブカシゲニミアゲタアマグモカラ、コハクイロノドラゴンガギュントアラワレタ。
+i b u k a sh i g e n i m i a g e t a a m a g u m o k a r a pau k o h a k u i r o n o d o r a g o N g a gy u N t o a r a w a r e t a
+
+RECITATION324_291
+布でギュギュっとヌンチャクを縛る。
+ヌノデギュギュットヌンチャクヲシバル。
+n u n o d e gy u gy u cl t o n u N ch a k u o sh i b a r u
+
+RECITATION324_292
+服を脱ぐが、いつも上下が逆さまだ。
+フクヲヌグガ、イツモジョーゲガサカサマダ。
+f U k u o n u g u g a pau i ts u m o j o o g e g a s a k a s a m a d a
+
+RECITATION324_293
+放課後の音楽室で、コウオンを頑張って出した。
+ホーカゴノオンガクシツデ、コーオンヲガンバッテダシタ。
+h o o k a g o n o o N g a k u sh I ts u d e pau k o o o N o g a N b a cl t e d a sh I t a
+
+RECITATION324_294
+モゴモゴしながら言うギャグは面白くない。
+モゴモゴシナガライウギャグワオモシロクナイ。
+m o g o m o g o sh i n a g a r a i u gy a g u w a o m o sh i r o k u n a i
+
+RECITATION324_295
+海水魚の漁業の一環として、稚魚が育てられている。
+カイスイギョノギョギョーノイッカントシテ、チギョガソダテラレテイル。
+k a i s u i gy o n o gy o gy o o n o i cl k a N t o sh I t e pau ch i gy o g a s o d a t e r a r e t e i r u
+
+RECITATION324_296
+ムンムンとした熱気に、あの淡水魚もへとへとになっている。
+ムンムントシタネッキニ、アノタンスイギョモヘトヘトニナッテイル。
+m u N m u N t o sh I t a n e cl k i n i pau a n o t a N s u i gy o m o h e t o h e t o n i n a cl t e i r u
+
+RECITATION324_297
+ヘスティア所長は、ジュウニオン音楽の作法を知っている。
+ヘスティアショチョーワ、ジュウニオンオンガクノサホーヲシッテイル。
+h e s U t i a sh o ch o o w a pau j u u n i o N o N g a k u n o s a h o o o sh i cl t e i r u
+
+RECITATION324_298
+主催者は、このフェスのキャパが小さいことを、セシルから聞いた。
+シュサイシャワ、コノフェスノキャパガチーサイコトヲ、セシルカラキイタ。
+sh U s a i sh a w a pau k o n o f e s u n o ky a p a g a ch i i s a i k o t o o pau s e sh i r u k a r a k i i t a
+
+RECITATION324_299
+母は、サフランライスと、さつまいもの入ったシチューと、ポトフをハフハフしながら食べた。
+ハハワ、サフランライスト、サツマイモノハイッタシチュート、ポトフヲハフハフシナガラタベタ。
+h a h a w a pau s a f u r a N r a i s U t o pau s a ts u m a i m o n o h a i cl t a sh I ch u u t o pau p o t o f u o h a f u h a f U sh i n a g a r a t a b e t a
+
+RECITATION324_300
+そして、左京とチサはヘファ駅に着いた。
+ソシテ、サキョートチサワヘフアエキニツイタ。
+s o sh I t e pau s a ky o o t o ch I s a w a h e f u a e k i n i ts u i t a
+
+RECITATION324_301
+ネモトと曽原は主君を批判した。
+ネモトトソハラワシュクンヲヒハンシタ。
+n e m o t o t o s o h a r a w a sh u k u N o h i h a N sh I t a
+
+RECITATION324_302
+ケケっと笑いながら、津原はパトカーに乗った。
+ケケットワライナガラ、ツワラワパトカーニノッタ。
+k e k e cl t o w a r a i n a g a r a pau ts u w a r a w a p a t o k a a n i n o cl t a
+
+RECITATION324_303
+キュキュッと鳴らした靴でパスを出した。
+キュキュットナラシタクツデパスヲダシタ。
+ky U ky u cl t o n a r a sh I t a k U ts u d e p a s u o d a sh I t a
+
+RECITATION324_304
+ティファニーはパピーにムギュッと抱き着きながら、チュチュッとキスをし、センキュと言った。
+ティファニーワパピーニムギュットダキツキナガラ、チュチュットキスヲシ、センキュトイッタ。
+t i f a n i i w a p a p i i n i m u gy u cl t o d a k I ts u k i n a g a r a pau ch u ch u cl t o k i s u o sh i pau s e N ky u t o i cl t a
+
+RECITATION324_305
+その義軍は、一ヘクタールほふく前進をした。
+ソノギグンワ、イチヘクタールホフクゼンシンヲシタ。
+s o n o g i g u N w a pau i ch I h e k U t a a r u h o f U k u z e N sh i N o sh I t a
+
+RECITATION324_306
+へへっと、きゃつは媚びへつらった。
+ヘヘット、キャツワコビヘツラッタ。
+h e h e cl t o pau ky a ts u w a k o b i h e ts u r a cl t a
+
+RECITATION324_307
+ほとんどの被調査者は、写真を車載した。
+ホトンドノヒチョーサシャワ、シャシンヲシャサイシタ。
+h o t o N d o n o h I ch o o s a sh a w a pau sh a sh i N o sh a s a i sh I t a
+
+RECITATION324_308
+補佐が、一酸化炭素中毒になるというハプニングは起きなかった。
+ホサガ、イッサンカタンソチュードクニナルトイウハプニングワオキナカッタ。
+h o s a g a pau i cl s a N k a t a N s o ch u u d o k u n i n a r u t o i u h a p u n i N g u w a o k i n a k a cl t a
+
+RECITATION324_309
+スチューデントが被災するファクターを、可能な限り取り払う。
+スチューデントガヒサイスルファクターヲ、カノーナカギリトリハラウ。
+s U ch u u d e N t o g a h I s a i s u r u f a k U t a a o pau k a n o o n a k a g i r i t o r i h a r a u
+
+RECITATION324_310
+カフェとは、ブレックファストとして、フォカッチャを食べれる場所でもある。
+カフェトワ、ブレックファストトシテ、フォカッチャヲタベレルバショデモアル。
+k a f e t o w a pau b u r e cl k U f a s U t o t o sh I t e pau f o k a cl ch a o t a b e r e r u b a sh o d e m o a r u
+
+RECITATION324_311
+普通、初級者では、コウオンを伸ばすことはできない。
+フツー、ショキューシャデワ、コーオンヲノバスコトワデキナイ。
+f U ts u u pau sh o ky u u sh a d e w a pau k o o o N o n o b a s U k o t o w a d e k i n a i
+
+RECITATION324_312
+彼からしたら、左中間から見る景色は貴重だった。
+カレカラシタラ、サチューカンカラミルケシキワキチョーダッタ。
+k a r e k a r a sh I t a r a pau s a ch u u k a N k a r a m i r u k e sh I k i w a k I ch o o d a cl t a
+
+RECITATION324_313
+シェパードと同居中に、フォスターはその格付け表を見た。
+シェパードトドーキョチューニ、フォスターワソノカクズケヒョーヲミタ。
+sh e p a a d o t o d o o ky o ch u u n i pau f o s U t a a w a s o n o k a k u z u k e hy o o o m i t a
+
+RECITATION324_314
+キョキョネン、虚数と屁長調について学んだ。
+キョキョネン、キョスートヘチョーチョーニツイテマナンダ。
+ky o ky o n e N pau ky o s u u t o h e ch o o ch o o n i ts u i t e m a n a N d a
+
+RECITATION324_315
+脚立の上でヒュヒューと風が吹くと、彼は背筋を伸ばした。
+キャタツノウエデヒュヒュートカゼガフクト、カレワセスジヲノバシタ。
+ky a t a ts u n o u e d e hy u hy u u t o k a z e g a f u k U t o pau k a r e w a s e s u j i o n o b a sh I t a
+
+RECITATION324_316
+昼にはペスカトーレを、夜には寿司をパクパク食べた。
+ヒルニワペスカトーレヲ、ヨルニワスシヲパクパクタベタ。
+h i r u n i w a p e s U k a t o o r e o pau y o r u n i w a s u sh i o p a k U p a k U t a b e t a
+
+RECITATION324_317
+ケフィアに関するこの本は、初版では三百部くらいだったが、次から波及的に増加した。
+ケフィアニカンスルコノホンワ、ショハンデワサンビャクブクライダッタガ、ツギカラハキューテキニゾーカシタ。
+k e f i a n i k a N s u r u k o n o h o N w a pau sh o h a N d e w a s a N by a k u b u k u r a i d a cl t a g a pau ts u g i k a r a h a ky u u t e k i n i z o o k a sh I t a
+
+RECITATION324_318
+皮膚が私のフェチである。
+ヒフガワタシノフェチデアル。
+h i f u g a w a t a sh i n o f e ch i d e a r u
+
+RECITATION324_319
+社販で巨富を築くという、彼の目論見は途中でへし折られた。
+シャハンデキョフヲキズクトイウ、カレノモクロミワトチューデヘシオラレタ。
+sh a h a N d e ky o f u o k i z u k U t o i u pau k a r e n o m o k u r o m i w a t o ch u u d e h e sh i o r a r e t a
+
+RECITATION324_320
+サヒョウのとおりの支出になることが、ある意味わが社の社風である。
+サヒョーノトーリノシシュツニナルコトガ、アルイミワガシャノシャフーデアル。
+s a hy o o n o t o o r i n o sh I sh u ts u n i n a r u k o t o g a pau a r u i m i w a g a sh a n o sh a f u u d e a r u
+
+RECITATION324_321
+この古風なシュヒョウは故郷のものだ。
+コノコフーナシュヒョーワコキョーノモノダ。
+k o n o k o f u u n a sh u hy o o w a k o ky o o n o m o n o d a
+
+RECITATION324_322
+そのほつれが腐敗しているというのは、誇張した表現だと思う。
+ソノホツレガフハイシテイルトイウノワ、コチョーシタヒョーゲンダトオモウ。
+s o n o h o ts u r e g a f u h a i sh I t e i r u t o i u n o w a pau k o ch o o sh I t a hy o o g e N d a t o o m o u
+
+RECITATION324_323
+その映画の出演者である彼が、主犯である可能性はフィフティーフィフティーだ。
+ソノエーガノシュツエンシャデアルカレガ、シュハンデアルカノーセーワフィフティーフィフティーダ。
+s o n o e e g a n o sh U ts u e N sh a d e a r u k a r e g a pau sh U h a N d e a r u k a n o o s e e w a f i f U t i i f i f U t i i d a
+
+RECITATION324_324
+チュクンの波長は、パツンと共通している。
+チュクンノハチョーワ、パツントキョーツーシテイル。
+ch u k u N n o h a ch o o w a pau p a ts u N t o ky o o ts u u sh I t e i r u
+
