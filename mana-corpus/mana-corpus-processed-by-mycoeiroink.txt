@@ -349,9 +349,9 @@ SETSUZOKU_046
 N d e pau n a n i g a a cl t a
 
 SETSUZOKU_047
-ただ、売ってたリンゴを買っただけだよ。
-タダ、ウッテタリンゴヲカッタダケダヨ。
-t a d a pau u cl t e t a r i N g o o k a cl t a d a k e d a y o
+ただ、人間って不思議だなって思っただけだよ。
+タダ、ニンゲンッテフシギダナッテオモッタダケダヨ。
+t a d a pau n i N g e N cl t e f U sh i g i d a n a cl t e o m o cl t a d a k e d a y o
 
 SETSUZOKU_048
 さて、そろそろ答え合わせといきましょうか。
@@ -509,9 +509,9 @@ QUESTION_023
 w i N w i N n o k a N k e e o ch i cl k o o j a n a i k a
 
 QUESTION_024
-もしかして友達いないんです？
-モシカシテトモダチイナインデス？
-m o sh I k a sh I t e t o m o d a ch i i n a i N d e s u
+もしかして、友達いないんじゃ？
+モシカシテ、トモダチイナインジャ？
+m o sh I k a sh I t e pau t o m o d a ch i i n a i N j a
 
 QUESTION_025
 こんなところ、さっさと逃げよう？
@@ -564,9 +564,9 @@ QUESTION_034
 py o N py o N h a n e r u a i k o N w a pau d o o s e cl t e e s u r u N d e s u
 
 QUESTION_035
-フォーマットはエムピーフォーで大丈夫です？
-フォーマットワエムピーフォーデダイジョーブデス？
-f o o m a cl t o w a e m u p i i f o o d e d a i j o o b u d e s u
+フォーマットはエムピーフォーで大丈夫？
+フォーマットワエムピーフォーデダイジョーブ？
+f o o m a cl t o w a e m u p i i f o o d e d a i j o o b u
 
 QUESTION_036
 収録、まだ終わらなそう？
@@ -609,9 +609,9 @@ QUESTION_043
 m a n a ch a N pau ch a N t o sh U k u d a i w a o w a cl t a
 
 QUESTION_044
-新撰組って紀州にも拠点があったんです？
-シンセングミッテキシューニモキョテンガアッタンデス？
-sh i N s e N g u m i cl t e k i sh u u n i m o ky o t e N g a a cl t a N d e s u
+遅刻組は新幹線で紀州に向かえばいいのかな？
+チコクグミワシンカンセンデキシューニムカエバイイノカナ？
+ch I k o k u g u m i w a sh i N k a N s e N d e k i sh u u n i m u k a e b a i i n o k a n a
 
 QUESTION2_001
 必殺技って、いないいないばあ？
