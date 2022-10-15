@@ -1129,9 +1129,9 @@ QUESTION2_103
 ny a N k o n i n a cl ch a u a i t e m u n a n o ny a
 
 QUESTION2_104
-小娘がわらわに何の用じゃ？
-コムスメガワラワニナニノヨージャ？
-k o m u s u m e g a w a r a w a n i n a n i n o y o o j a
+小娘がわらわになんの用じゃ？
+コムスメガワラワニナンノヨージャ？
+k o m u s u m e g a w a r a w a n i n a N n o y o o j a
 
 QUESTION2_105
 雰囲気のいいお店だね？
